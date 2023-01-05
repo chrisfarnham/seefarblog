@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Running the build!!!"
+make build

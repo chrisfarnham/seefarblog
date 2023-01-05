@@ -1,10 +1,12 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "_site",
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**"
+      "**/node_modules/**",
+      "Gemfile", 
+      "Gemfile.lock", "Makefile", "build.sh", "README.md"
     ]
   }
 }
