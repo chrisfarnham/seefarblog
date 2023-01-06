@@ -21,3 +21,8 @@ So now I am awaiting delivery of a new Xiegu G90. I decided to purchase an LDG 9
  - [LDG 9:1 Unun](https://www.dxengineering.com/parts/ldg-ru-9-1)
  - [LDG 1:1 Unun (Choke)](https://www.dxengineering.com/parts/ldg-ru-1-1)
  - 250’ antenna wire (22 AWG from Amazon)
+
+![Photo of the recently delivered Starting Rig items](shipped_radio_and_gear.png "Recently delivered items")
+
+The items above were ordered through Radio Oddity, DXEngineering and Amazon
+
