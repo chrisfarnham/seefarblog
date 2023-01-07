@@ -62,6 +62,9 @@ compress_html:
   # ignore:
   #   envs: all
 
+# External navigation links
+nav_external_links: []
+
 collections:
   sections:
     permalink: "/:collection/:path/"
