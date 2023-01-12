@@ -1,11 +1,11 @@
 ---
 layout: default
-title: First Amateur Radio Rig
+title: First amateur radio rig
 date: January 5, 2023
 last_modified_date: January 5, 2023 
 nav_order: 1
 ---
-# First Amateur Radio Rig
+# First amateur radio rig
 
 ![Simple diagram of component chain. Operator -> Radio -> Jumper -> choke -> 15 foot feedline -> 9:1 unun -> end fed random wire antenna](first_rig_diagram.png "Component Chain")
 
