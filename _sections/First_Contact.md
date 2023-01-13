@@ -18,6 +18,8 @@ They say, just get some wire high up in the air and begin experimenting. So I go
 I measured out 53 feet of wire as recommented by this article, "[The "Best" Random Wire Antenna Lengths](https://www.hamuniverse.com/randomwireantennalengths.html)". I threw a line into a tree using the arborist throw line I ordered and
 used that to hang a loop of clothesline.
 
+> They say, just get some wire high up in the air and begin experimenting
+
 I tried some different configurations but settled on a rough inverted V shape from the basement window where my radio
 is set up, to a tree 30 feet or so away and about 18 feet in the air and down to a neighbor's fence.
 
