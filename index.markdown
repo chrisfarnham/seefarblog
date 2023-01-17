@@ -9,3 +9,5 @@ layout: home
 Personal site for Chris Farnham, KA1ZPR. Where I share my adventures in radio, the outdoors
 and technology.
 
+![Blog author outside in the winter near a firepit with his dog Daisy](chris_daisy.jpg "Enjoying the fire pit with Daisy")
+
