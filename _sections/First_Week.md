@@ -7,9 +7,11 @@ nav_order: 0
 
 # First five days of HF operation
 
-I've been able to get down to my radio station a few nights since that first contact. I do a lot
-of listening and learning. But I do try to make at least one contact per session.
+I've been able to get down to my radio station a few nights since that [first contact]({% link _sections/First_Contact.md %}).
 
+> You can do a lot with 20 watts and a wire
+
+I do a lot of listening and learning. But I do try to make at least one contact per session.
 
 ![Map showing initial contacts between my home and distant stations](contacts_map.png "Contacts made my first week of operation")
 
