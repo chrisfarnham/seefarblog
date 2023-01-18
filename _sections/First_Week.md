@@ -7,7 +7,7 @@ nav_order: 0
 
 # First five days of HF operation
 
-I've been able to get down to my radio station a few nights since that first contact.
+I've been able to get down to my radio station a few nights since that [first contact]({% link _sections/First_Contact.md %}).
 
 > You can do a lot with 20 watts and a wire
 
