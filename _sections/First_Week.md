@@ -2,7 +2,7 @@
 layout: default
 title: First days of HF operation
 last_modified_date: January 17, 2023 
-nav_order: 0
+nav_order: 98
 ---
 
 # First five days of HF operation

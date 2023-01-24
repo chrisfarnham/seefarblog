@@ -3,7 +3,7 @@ layout: default
 title: First amateur radio rig
 date: January 5, 2023
 last_modified_date: January 5, 2023 
-nav_order: 1
+nav_order: 100
 ---
 # First amateur radio rig
 
