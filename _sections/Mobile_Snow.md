@@ -24,7 +24,7 @@ I added these items to my current kit to go mobile:
 
 ![](radio_with_field_in_bg.png)
 
-Here's my radio setup with snow huts being built in the background.
+Here's my radio setup with snow shelters being built in the background.
 
 > Mobile ops in the snow may seem hardcore but it was
 > a sunny and mild day. Great weather to be outside.
@@ -46,13 +46,13 @@ The noise floor at my suburban home is usually around an S3. Here in the wildern
 it was basically at zero.
 
 I was hearing transmissions from
-UK and Germany clearly but the pile-up was too great and I moved onto other bands
+UK and Germany clearly but the pile-up was too great and I moved onto other frequencies
 rather than queue up and break in.
 
 ![](antenna.png)
 
 Here's a photo of the antenna from the radio setup. I used an arbor line to
-get my EFRL antenna about 30 feet into a tree and set it up in a sloper configuration.
+get an end-fed random length (EFRL) antenna about 30 feet into a tree and set it up in a sloper configuration.
 
 
 ![](snow_shelter_at_night.png)
