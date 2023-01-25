@@ -32,7 +32,7 @@ I've mounted the stamp plate and a card in a frame for display.
 
 ![](grandpa_on_tractor.png)
 
-Many of my memories or him are working on his farm. We'd spend many hot summer days
-haying his fields.
+I have many fond memories of working with him on his farm. We'd spend many hot summer days
+haying his fields and other projects.
 
 
