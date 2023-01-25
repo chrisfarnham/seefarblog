@@ -27,7 +27,7 @@ over the air.
 Fred was a man of many talents. He was a high school industrial arts teacher by profession. He printed his own QSL cards from an illustrated plate of his own design and manufacture. As you can see he was a fairly good artist. 
 If another radio operator made an HF contact with Fred Bean, he would stamp out a new card and send it to them in the mail. 
 
-> I am humbled to be operating as W1YTQ and think of my grandfather every time I say it on the air.
+> I am humbled to be operating as W1YTQ and think of my grandfather every time I announce myself on the air.
 
 I've mounted the QSL stamp plate and a card in a frame for display in my home.
 
