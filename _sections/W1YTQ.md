@@ -35,5 +35,5 @@ I've mounted the QSL stamp plate and a card in a frame for display in my home.
 ![](grandpa_on_tractor.png)
 
 I have many fond memories of working with him on his farm. We'd spend many hot summer days
-haying his fields and working on projects around the farm. 
+haying his fields and working on projects. 
 
