@@ -10,7 +10,7 @@ nav_order: 96
 ![](fred_bean_military.png)
 
 My call sign, [W1YTQ](https://www.qrz.com/db/W1YTQ), first belonged to my grandfather [Fred William Bean](https://obituaries.bangordailynews.com/obituary/fred-bean-803788851). I applied
-for and was assigned W1YTQ by the FCC on January 21, 2022.
+for and was assigned W1YTQ by the FCC on January 21, 2023.
 
 ![](Insignia_signal.svg.png "Signal Corps Insignia"){: width="250" }
 
