@@ -5,7 +5,7 @@ last_modified_date: January 25, 2023
 nav_order: 96
 ---
 
-# W1YTQ - my grandfather 
+# W1YTQ - my grandfather's call sign 
 
 ![](fred_bean_military.png)
 
