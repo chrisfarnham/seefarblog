@@ -56,13 +56,13 @@ If I had to pick an amateur radio role model or guru it would be Walt, K4OGO, of
 
 
 Walt produces bite sized videos featuring field operations and antenna theory and design. His energy is infectious
-and he walks viewers through basic antenna theory and put to practical practice.
+and he walks viewers through basic antenna theory put to practical practice.
 
 > DX is "radio speak" for distance. It's often used to refer to contacts 
 > between operators in the continental US (CONUS) and elsewhere (including Alaska and Hawaii)
 
-He gets amazing DX contacts with his 20 watt, [Xiegu G90](https://www.radioddity.com/products/xiegu-g90-hf-transceiver). 
-The same radio that I own. I watch his videos closely and a lot of my plans and projects for 2023 are inspired by his work.
+Walt gets amazing DX contacts with his 20 watt, [Xiegu G90](https://www.radioddity.com/products/xiegu-g90-hf-transceiver), 
+the same radio that I own. I watch his videos closely and many of my plans and projects are inspired by his work.
 
 ### David Casler
 
