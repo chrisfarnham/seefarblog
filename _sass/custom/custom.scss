@@ -22,3 +22,25 @@ blockquote {
 code {
     white-space: pre;
 }
+
+.circular-image {
+    clip-path: circle();
+}
+
+.image-left {
+    display: block;
+    margin-left: auto;
+    margin-right: 5px;
+    float: left;
+  }
+
+.image-right {
+    display: block;
+    margin-left: 5px;
+    margin-right: auto;
+    float: right;
+  }
+
+.main-content ul {
+    display: flow-root;
+}

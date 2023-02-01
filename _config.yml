@@ -84,6 +84,11 @@ just_the_docs:
       # Supports true or false (default)
       search_exclude: false
 
+feed:
+  collections:
+    sections:
+      path: "/sections.xml"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
