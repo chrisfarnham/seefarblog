@@ -1,13 +1,13 @@
 ---
 layout: default
-title: W1YTQ Legacy
+title: W1YTQ legacy
 last_modified_date: January 25, 2023 
 nav_order: 96
 ---
 
 # W1YTQ - my grandfather's call sign 
 
-![](fred_bean_military.png)
+![Picture of Fred Bean (call sign W1YTQ) in his Army dress uniform circa 1942](fred_bean_military.png "Fred Bean, US Army Signal Corps officer")
 
 My call sign, [W1YTQ](https://www.qrz.com/db/W1YTQ), first belonged to my grandfather [Fred William Bean](https://obituaries.bangordailynews.com/obituary/fred-bean-803788851). I applied
 for and was assigned W1YTQ by the FCC on January 21, 2023.
