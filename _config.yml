@@ -39,7 +39,6 @@ compress_html:
 # Build settings
 theme: "just-the-docs"
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-target-blank
 
@@ -83,11 +82,6 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
-
-feed:
-  collections:
-    sections:
-      path: "/sections.xml"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
