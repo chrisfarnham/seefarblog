@@ -2,6 +2,7 @@
 layout: default
 title: Harold Parker State Forest
 last_modified_date: June 23, 2023
+image: sections/Field_Setup/g90-field-setup-harold-parker.jpg
 nav_order: 93
 ---
 
