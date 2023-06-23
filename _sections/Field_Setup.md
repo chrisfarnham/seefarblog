@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Field ops in Harold Parker State Forest
+title: Harold Parker State Forest
 last_modified_date: June 23, 2023
 nav_order: 93
 ---
