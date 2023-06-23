@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Operating in the field
+title: Field ops in Harold Parker State Forest
 last_modified_date: June 23, 2023
 nav_order: 93
 ---
 
-# Operating in the field
+# Operating in the field at Harold Parker State Forest
 
 This past Friday I set up a field radio station at [Harold Parker State Forest](https://www.mass.gov/locations/harold-parker-state-forest)
 in Andover, Massachusetts USA. Every year on Father's Day weekend, we go camping. For the past few years we've invited several other families to join us for the fun.
