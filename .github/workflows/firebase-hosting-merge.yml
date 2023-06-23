@@ -16,6 +16,8 @@ jobs:
           ruby-version: '3.1.2' 
           bundler-cache: true
       - run: bash build.sh
+        env:
+          ENVIRONMENT: production
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
