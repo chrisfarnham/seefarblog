@@ -12,7 +12,9 @@ in Andover, Massachusetts USA. Every year on Father's Day weekend, we go camping
 
 ![My G90 setup in the field](g90-field-setup-harold-parker.jpg "My Xiegu G90 in the Field at Harold Parker State Forst in MA")
 
-Because we were there for fun with friends and family I did not make this a [POTA](https://pota.app/) activity. Doing a POTA activation would have required focus and would have been anti-social. I treated this as a show & tell activity. I set out to have a little radio fun
+Because we were there for fun with friends and family I did not make this a [POTA](https://pota.app/) activity. Doing a POTA activation would have required focus and I would not have
+been able to spend time cooking and visiting.
+I treated this as a show & tell activity. I set out to have a little radio fun
 myself and share the hobby of amateur radio with my friends and the kids who were there.
 
 > I set out to have a little radio fun
