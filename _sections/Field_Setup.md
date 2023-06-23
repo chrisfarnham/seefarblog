@@ -12,12 +12,13 @@ in Andover, Massachusetts USA. Every year on Father's Day weekend, we go camping
 
 ![My G90 setup in the field](g90-field-setup-harold-parker.jpg "My Xiegu G90 in the Field at Harold Parker State Forst in MA")
 
-
 Because we were there for fun with friends and family I did not make this a [POTA](https://pota.app/) activity. Doing a POTA activation would have required focus and would have been anti-social. I treated this as a show & tell activity. I set out to have a little radio fun
 myself and share the hobby of amateur radio with my friends and the kids who were there.
 
 > I set out to have a little radio fun
 > and share the hobby of amateur radio with my friends
+
+As you can see, I was using my Xeigu G90 with a battery connected to a 58 foot randome length end-fed antenna that was sloped into a tree using an arbor line. Because I'm pretty new to high-frequency operation and built my first rig with field operations in mind, my field setup is basically the same as my at home setup.
 
 Most of my time was spent listening and demonstrating the radio. I did make two contacts to Europe on the 20 meter band.
 
@@ -31,8 +32,3 @@ lines, vehicles, and appliances.
 Radio operations was a small part of our time at the campsite. We cooked, fished and enjoyed great company.
 
 ![Our bernedoodle, Daisy, hanging out at the campsite](1000005125.jpg "Daisy relaxes at our campsite")
-
-
-
-
-
