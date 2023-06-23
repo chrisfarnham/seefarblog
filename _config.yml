@@ -31,6 +31,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /sections/Mobile_Snow/camp_bell_remote_radio_station.png
+
 
 compress_html:
   ignore:
