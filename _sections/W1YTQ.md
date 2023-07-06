@@ -1,7 +1,8 @@
 ---
 layout: default
 title: W1YTQ legacy
-last_modified_date: January 25, 2023 
+last_modified_date: January 25, 2023
+image: /sections/W1YTQ/fred_bean_military.png
 nav_order: 96
 ---
 
