@@ -9,5 +9,18 @@ layout: home
 Personal site for Chris Farnham, W1YTQ. Where I share my adventures in radio, the outdoors
 and technology.
 
-![Blog author outside in the winter near a firepit with his dog Daisy](chris_daisy.jpg "Enjoying the fire pit with Daisy")
+![Blog author outside in the winter near a firepit with his dog Daisy](chris_daisy.jpg "Enjoying the fire pit with Daisy"){: .circular-image width="300"}
 
+## My last four Mastodon posts
+
+I am on the fediverse at https://mastodon.roundpond.net/@chrisfarnham
+
+{::nomarkdown}
+<div class="toots">
+<a class="mastodon-feed"
+   href="https://mastodon.roundpond.net/@chrisfarnham"
+   data-toot-limit="4"
+   data-toot-account-id="109382088320982601"
+   >I am on the fediverse at https://mastodon.roundpond.net/@chrisfarnham</a>
+</div>
+{:/}
