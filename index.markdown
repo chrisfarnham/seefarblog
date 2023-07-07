@@ -20,5 +20,6 @@ I am on the fediverse at https://mastodon.roundpond.net/@chrisfarnham
    href="https://mastodon.roundpond.net/@chrisfarnham"
    data-toot-limit="4"
    data-toot-account-id="109382088320982601"
+   data-exclude-replies="true"
    >I am on the fediverse at https://mastodon.roundpond.net/@chrisfarnham</a>
 {:/}
