@@ -45,6 +45,14 @@ code {
     display: flow-root;
 }
 
+ol#markdown-toc li {
+    list-style-type: disc;
+}
+
+ol#markdown-toc li::before {
+    content: none;
+}
+
 /* emfed css */
 
 ol.toots {
