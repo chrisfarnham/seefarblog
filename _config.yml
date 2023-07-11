@@ -89,6 +89,14 @@ just_the_docs:
       # Supports true or false (default)
       search_exclude: false
 
+
+# External navigation links
+nav_external_links:
+  - title: W1YTQ QRZ Page
+    url: https://www.qrz.com/db/w1ytq
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+ 
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
