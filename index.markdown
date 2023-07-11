@@ -15,7 +15,7 @@ layout: home
 Personal site for Chris Farnham, W1YTQ. Where I share my adventures in radio, the outdoors
 and technology.
 
-On this page you can see:
+On this page:
 
 1. On this page
 {:toc }
