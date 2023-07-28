@@ -30,4 +30,4 @@ build: install
 serve: install
 	bundle exec jekyll serve $(config)
 
-.PHONY: install bulid serve
+.PHONY: install build serve
