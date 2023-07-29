@@ -23,7 +23,8 @@ On this page:
 
 ## My four most recent Mastodon posts
 
-I am on the fediverse at https://mastodon.roundpond.net/@chrisfarnham
+I am on the fediverse at [https://mastodon.roundpond.net/@chrisfarnham](https://mastodon.roundpond.net/@chrisfarnham){: rel="me"}
+
 
 {::nomarkdown}
 <a class="mastodon-feed"
