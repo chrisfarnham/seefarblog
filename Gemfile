@@ -34,5 +34,5 @@ gem "just-the-docs", "0.4.0.rc3"
 
 
 gem "webrick", "~> 1.7"
-gem 'jekyll-link-attributes'
-gem 'nokogiri' # jekyll-link-attributes dependency
+gem 'jekyll-target-blank'
+

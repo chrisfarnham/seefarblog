@@ -46,7 +46,7 @@ compress_html:
 theme: "just-the-docs"
 plugins:
   - jekyll-seo-tag
-  - jekyll-link-attributes
+  - jekyll-target-blank
 
 # Back to top link
 back_to_top: true
