@@ -25,11 +25,18 @@ From our troop's campsite we made 47 two-way contacts to 6 different countries. 
 Most afternoons during the week, I operated the radio in the camp site. Curious Scouts would come by to ask questions about what I was doing.
 
 On Wednesday, I was able set up a pre-arranged contact with [W1TEN](https://www.qrz.com/db/W1TEN), another Scout
-Leader in NH. W1TEN was operating about 44 miles away as the crow flies from our campsite. Such a close distance 
-meant that we would have to rely on *ground wave propogation* rather than *sky wave propogation* which is less
-predictable. Would it work?
+Leader in NH. 
 
-> The ARRL has an excellent paper on HF propogation 
+> A **sked** is a pre-arranged or scheduled contact between ham radio operators.
+
+W1TEN was operating about 44 miles away from our campsite. Such a close distance for High Frequency bands 
+meant that we would have to rely on *ground wave propagation* rather than *sky wave propagation* which is less
+predictable. Would it work? Would Greg's station be in our radio's skip zone?
+
+![](hf_propagation.jpg "Public domain image taken from the US Navy's 'Electronics Technician - Volume 7 - Figure 1-8.'")
+
+
+> The ARRL has an excellent paper on HF propagation 
 > called [Radio Waves and the Ionosphere](https://www.arrl.org/files/file/Technology/pdf/119962.pdf)
 
 It worked fine! Greg, myself and a few Scouts from our Troop chatted with Greg and learned about
@@ -37,7 +44,7 @@ amateur radio together. We were joined by [N1ATE](https://www.qrz.com/db/N1ATE),
 the Radio Merit Badge Counselor at Hidden Valley.
 
 
-![](nh_ground_wave_contact.png "44 mile, 40 meter band HF contact with W1TEN via ground wave propogation")
+![](nh_ground_wave_contact.png "44 mile, 40 meter band HF contact with W1TEN via ground wave propagation")
 
 Greg had recently worked as a volunteer for [K2BSA, Radio Scouting](https://k2bsa.net/2023/07/the-road-to-the-2023-national-scout-jamboree/) at the 2023 National Scout Jamboree at The Summit Bechtel Reserve in West Virginia. He was well practiced in working with Scouts over the radio and conversing with them on the air.
 
