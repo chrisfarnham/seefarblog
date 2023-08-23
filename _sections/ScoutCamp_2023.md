@@ -10,7 +10,7 @@ nav_order: 92
 
 I was an adult leader for my son Josh's Scout Troop during their summer at 
 [Hidden Valley Scout Camp](https://nhscouting.org/outdoor-programs/summer-camp/)
-in Gilmanton, NH. I set up a field radio to indeoduce amateur radio to the 40 or so co-ed Scouts in [Troop 119, Lexington](http://www.troop119.com/).
+in Gilmanton, NH. I set up a field radio to introduce amateur radio to the 40 or so co-ed Scouts in [Troop 119, Lexington](http://www.troop119.com/).
 
 ![](hidden_valley_radio_ops_cropped.jpg)
 
