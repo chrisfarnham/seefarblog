@@ -24,8 +24,8 @@ From our troop's campsite we made 47 two-way contacts to 6 different countries. 
 
 Most afternoons during the week, I operated the radio in the camp site. Curious Scouts would come by to ask questions about what I was doing.
 
-On Wednesday, I was able set up a pre-arranged contact with [W1TEN](https://www.qrz.com/db/W1TEN), another Scout
-Leader in NH. 
+On Wednesday, I was able set up a pre-arranged contact with [W1TEN](https://www.qrz.com/db/W1TEN), Greg who is
+another Scout Leader in NH. 
 
 > A **sked** is a pre-arranged or scheduled contact between ham radio operators.
 
@@ -39,9 +39,15 @@ predictable. Would it work? Would Greg's station be in our radio's skip zone?
 > The ARRL has an excellent paper on HF propagation 
 > called [Radio Waves and the Ionosphere](https://www.arrl.org/files/file/Technology/pdf/119962.pdf)
 
-It worked fine! Greg, myself and a few Scouts from our Troop chatted with Greg and learned about
+It worked fine! Greg, some Scouts and I talked and learned about
 amateur radio together. We were joined by [N1ATE](https://www.qrz.com/db/N1ATE), Nathan, who was
 the Radio Merit Badge Counselor at Hidden Valley.
+
+
+> When I was a teenager I worked at [Katahdin Scout Reservation](https://www.katahdinareabsa.org/CampRoosevelt) 
+> as a camp counselor for 4 summers. Nathan (N1ATE), mentioned above, is the son of a long time friend
+> and coworker from those years. Spending time with Ben's son Nate was a real privilege and brought
+> back many fond memories of my own time as a Scout.
 
 
 ![](nh_ground_wave_contact.png "44 mile, 40 meter band HF contact with W1TEN via ground wave propagation")
