@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Learning APRS
-last_modified_date: August 21, 2023
+last_modified_date: August 31, 2023
 image: /sections/Learning_APRS/PXL_20230830_115439422.jpg
 nav_order: 91
 ---
 
 # Learning APRS
+{: .no_toc }
 
 I bought a [Yaesu FT5DR](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&encProdID=8FA58F426C671235EA5791EE6814FF48) a few weeks ago (an impulse
 purchase). I had no plans for VHF operation but brought
@@ -20,6 +21,12 @@ I decided to experiment with APRS. I've been enjoying it and have
 learned a ton in the last two weeks.
 
 ![FT5DR with the US APRS frequency, 144.390, set in the B channel.](PXL_20230830_115439422.jpg){: width="500px"}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{: toc }
 
 ## What is APRS?
 
@@ -108,7 +115,14 @@ resources for JOTA, [Jamboree on the Air](https://www.jotajoti.info/jota).
 Like all amateur radio broadcast activities, everything you do is public (so be safe and responsible). 
 Anyone can track me online through different APRS services like [N2RWE APRS Tracker](http://aprs.n2rwe.com/station/W1YTQ-7/).
 
-![Alt text](Screenshot from 2023-08-31 07-47-50.png)
+![Map of Boston's metro west showing APRS tracks, markers and paths](Screenshot from 2023-08-31 07-47-50.png)
+
+The map above shows that my personal station set packets to MIT's [APRS station (W1XM)](https://aprs.fi/info/a/W1XM)
+which was then digipeated to [N3LLO](https://aprs.fi/info/a/N3LLO-1), an iGate in Rutland, MA 43 miles away. Of course
+anyone local receives my beacons and messages as well. But I can only verify and track packets that route to an iGate and
+onto APRS-IS, the internet.
+
+APRS routing is redundant and disconnected so my packets may travel through different combinations of digipeaters and iGates. Another common route I see is to a Waltham digipeater [W1MHL](https://aprs.fi/info/a/W1MHL) to an iGate in Boston, [KB1DML](https://aprs.fi/info/a/KB1DML-10).
 
 If you want to learn more, here's an explanation that really helped me - [Introduction to APRS](https://n2rac.com/introduction-to-aprs-ddd4097a0dba) written by Angelo, N2RAC/DU2XXR.
  
