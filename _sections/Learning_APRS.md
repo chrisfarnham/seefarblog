@@ -27,11 +27,11 @@ APRS stands for "Automatic Packet Reporting System," and it is an amateur (ham) 
 
 I watched a couple of [YouTube videos](https://youtu.be/tTc96aP8hiw?si=10LkplliUTXgxw4q) that walked me through configuring APRS on my hand held radio. After some experimentation I was able to send out my location as a beacon and receive beacons from nearby APRS transmitters.
 
-![Received APRS beacon](PXL_20230822_230123549.jpg){: width="500px"}
+![Received APRS beacon](PXL_20230822_230123549.jpg){: width="80%"}
 
-The beacon shown on my radio above is from the MIT APRS digipeater in Cambridge, 7.1 miles Southeast of my home.
+The beacon shown on my radio above is from MIT's digipeater in Cambridge, 7.1 miles Southeast of my home.
 
-![Alt text](Screenshot_20230822-181632~2.png){: .image-left width="300px"}
+![Alt text](Screenshot_20230822-181632~2.png){: .image-left width="66%"}
 
 I set my beacon to transmit every 30 seconds and then took the dog for a walk. When I got home I could trace my route using the [APRS.fi website](https://aprs.fi/).
 
@@ -55,7 +55,7 @@ My APRS message was broadcast globally to all #APRSThursday participants. And th
 I received welcome and hello messages as people around the world joined in. 
 12 hours later the #APRSThursday bot disconnected me.
 
-![Alt text](PXL_20230824_160422039.jpg){: .image-right width="300px"}
+![Alt text](PXL_20230824_160422039.jpg){: .image-right width="50%" height="auto"}
 
 [ANSRVR](http://aprs.org/ansrvr.html) is an "announcement server" that provides global group messaging capability. The APRS Thursday group uses HOTG as an identifier.
 
