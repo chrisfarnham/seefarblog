@@ -11,13 +11,13 @@ else
 	dest=-d $(DESTINATION)
 endif
 
-ENVIRONMENT ?= ""
-ifeq ($(ENVIRONMENT), "")
+JEKYLL_ENV ?= ""
+ifeq ($(JEKYLL_ENV), "")
 	config=
-else ifeq ($(ENVIRONMENT), production)
+else ifeq ($(JEKYLL_ENV), production)
 	config=--config _config.yml,_production-config.yml
 else
-	config=$(ENVIRONMENT)
+	config=$(JEKYLL_ENV)
 endif
 
 install:

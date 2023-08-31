@@ -17,7 +17,7 @@ jobs:
           bundler-cache: true
       - run: bash build.sh
         env:
-          ENVIRONMENT: production
+          JEKYLL_ENV: production
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
