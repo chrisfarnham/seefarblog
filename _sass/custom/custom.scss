@@ -11,7 +11,12 @@ li a:after {
     content: "\00a0";
 }
 
+// .nav-list .nav-list-item {
+//     margin-bottom: 0.5rem;
+// }
+
 blockquote {
+    display: flow-root;
     max-width: 500px;
     font-family: "Times New Roman", Times, serif;
     font-size: 18px;
@@ -30,13 +35,14 @@ code {
 .image-left {
     display: block;
     margin-left: auto;
-    margin-right: 5px;
+    margin-right: 10px;
     float: left;
 }
 
+
 .image-right {
     display: block;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-right: auto;
     float: right;
 }

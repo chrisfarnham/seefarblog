@@ -43,7 +43,7 @@ The RF amp, volume, tuner, antenna matching unit and various filter controls all
 a signal. I read the manual before starting but operating is another matter. It sook some time.
 
 At one point I was having a hard time and then realized that I accidently put the radio into "split mode" where it was
-receiving and transmitting on different frequuencies. This means that the antenna matcher was confused and I was getting a
+receiving and transmitting on different frequencies. This means that the antenna matcher was confused and I was getting a
 poor match across different frequency bands.
 
 More reading, a firmware update and turning off "split" got me to a better place. I learned how to tune the radio and pull
@@ -57,8 +57,7 @@ Finally I was comfortable and wanted to get on with it. An operator with a reall
 ![](contact_map.png "Lexington, MA to Fredericksburg, VA")
 
 Chuck was loud and clear - he reported the same
-for my signal on his end. If you look at his profile page he definitely has a great antenna so he was able to pull in
-my lighweight 20 watt signal.
+for my signal on his end. If you look at his profile page he definitely has a great antenna so he was able to pull in my lightweight 20 watt signal.
 
 We exchanged call signs, talked about our radio setups and he coached me a little bit and wished me luck. Chuck was
 friendly and welcoming.
