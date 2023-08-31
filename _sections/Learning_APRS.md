@@ -51,8 +51,9 @@ To join in the fun all I had to do was send an APRS message to "ANSRVR" like thi
  
     CQ HOTG Hello from Lexington, MA!
 
-My APRS message were broadcast globally to everyone who joined #APRSThursday and for the next
-12 hours, I received welcome messages as more people signed up.
+My APRS message was broadcast globally to all #APRSThursday participants. And then 
+I received welcome and hello messages as people around the world joined in. After 12
+hours of joining, the #APRSThursday bot disconnected me.
 
 ![Alt text](PXL_20230824_160422039.jpg){: .image-right width="300px"}
 
