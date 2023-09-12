@@ -8,16 +8,23 @@ nav_order: 90
 
 # Feed-line pass-through and grounding
 
-I recently cut a pass through and assembled a lightning protection and grounding solution for my 
-home radio station. 
+I recently cut a pass-through for my home radio station. 
+
+The pass-through is configured solve three separate but related issues:
+ - Preventing ground loops and in-shack RFI with a ground bus and braid
+ - Lightning protection from the antenna with an arrester, copper sheet and bonding conductor
+ - Electric shock protection inside the shack provided by code compliant grounded power
+
+ All of these systems connect to bonded grounding rods at my electric service entrance so they share
+ a common ground.
 
 ![](PXL_20230909_184711023.jpg){: .image-left width="200px"}
 
 
 My station is in the finished portion of my basement. My foundation walls
 are high and extend about 3 feet above grade. The plan was to drill a large hole through
-the foundation wall into an electric utility closet that sits next to my radios.
-
+the foundation wall into an electric utility closet that sits next to my radios. Inside
+the basement the pass-through hole is about 7 feet above the floor.
 
 
 ## A little help from my friend
@@ -81,18 +88,18 @@ to my grounding rods. In this photo the bonding termination cover is back on.
 
 ## Inside the shack
 
-Inside the shack you can see how the coax and copper ground runs to my station.
+Inside the shack you can see how the coax and copper ground run into my station.
 
 ![](PXL_20230909_142114261.jpg)
 
-Here's a photo that shows the window that my end-fed antenna used to pass directly through. It made for 
-some drafty cold radio operations during the winter. I removed the antenna during the lightning prone summer months and
-operated in the field.
+Here's a photo that shows the window that before this project my end-fed antenna passed directly through. I
+didn't want to crimp the antenna wire so it was always open a crack. This made for 
+some drafty cold radio operations during the winter.
 
 ![](PXL_20230909_163348276.jpg)
 
-If you open the utility closet you can see the antenna coax and braided ground wire enter through the pass-through. You
-can also see my internet and electrical junction boxes.
+If you open the utility closet you can see that the coax feedline and braided copper ground enter through 
+the pass-through. You can also see my internet and electrical junction boxes.
 
 ![](PXL_20230909_142114261_closeup_brushbox.jpg)
 
@@ -100,7 +107,7 @@ I installed a brush wall plate to make the entrance look tidy and prevent drafts
 
 ![](PXL_20230909_163331886.jpg)
 
-And it was very simple to connect it all to a copper grounding bus and my radio.
+It was very simple to connect it all to a copper grounding bus and my radio.
 
 > I'm very pleased with how this all turned out. In the end it was a simple project but what you see represents
 > months of dreaming and thinking. I'm glad I took my time and did it correctly.
