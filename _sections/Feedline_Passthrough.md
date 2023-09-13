@@ -57,7 +57,6 @@ measuring in from the marks.
 
 Phase one complete! The box is mounted and ready for me to install and connect grounding components.
 
-
 ## Grounding and lightning protection
 
 The next weekend I completed the project. 
@@ -93,14 +92,14 @@ Inside the shack you can see how the coax and copper ground run into my station.
 
 ![](PXL_20230909_142114261.jpg)
 
-Here's a photo that shows the window that, before this project, my end-fed antenna passed directly through. I
+Here's a photo that shows the window that, before this project, my end-fed antenna ran through. I
 didn't want to crimp the antenna wire so it was always open a crack. This made for 
 some drafty cold radio operations during the winter.
 
 ![](PXL_20230909_163348276.jpg)
 
 If you open the utility closet you can see that the coax feed-line and braided copper ground enter through 
-the pass-through. You can also see my internet and electrical junction boxes.
+the drilled hole. You can also see my internet and electrical junction boxes.
 
 ![](PXL_20230909_142114261_closeup_brushbox.jpg)
 
