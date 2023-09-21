@@ -49,5 +49,7 @@ With only 20 watts of power I was able to confirm a two-way contact with
 [N6YYO](https://www.qrz.com/db/N6YYO) in Huntington Beach, CA on 20 meters. He had a really good directional antenna and was really patient as I repeated W1YTQ, my call sign, several times before
 he could confirm it. But contact was made nonetheless. 
 
-It's all anecdotal but I'm pretty pleased with the antenna so far. I think the big lesson isn't that
+It's all anecdotal but I'm pretty pleased with the antenna so far. My takeaway isn't that the new
+EFHW is better, it is that I should continue to experiment with antennas and other parts of my
+station to learn what works for different conditions and types of communication.
 
