@@ -33,7 +33,6 @@ After learning and working with this one I can easily get some more wire and bui
 ## How well does my EFHW work? 
 
 
-
 In a Fediverse conversation [megahertz@mastodon.radio](https://mastodon.radio/@megahertz) said, "2 observations for me in working with both types of antennas is: (1) With the EFRW I could tune all but 40m and I think 15m or something, but it did work and it tuned on all other ham bands. After trying things like changing the length of the wire without success I had to revert to using an external tuner.  The EFHW will tune in most bands (that I use) with the built in rig (7300) tuner. (2)  The EFRW has a bit more noise."
 
 ![Screenshot of Mastodon, Fediverse message from megahertz](Screenshot from 2023-09-21 16-53-57.png)
@@ -46,17 +45,29 @@ losing power because it was non-resonant.
 Global radio propagation has been really poor lately due to solar storms. But last night I was hearing
 multiple California radio stations. I'd never had a contact that far west.
 
+## Going to California
+
 ![Map of US with contact from MA to CA](contacts_map.png)
 
 With only 20 watts of power I was able to confirm a two-way contact with 
-[N6YYO](https://www.qrz.com/db/N6YYO) in Huntington Beach, CA on 20 meters. He had a really good directional antenna and was really patient as I repeated W1YTQ, my call sign, several times before
-he could confirm it. N6YYO's signal was loud and clear. He gave me an RST
+[N6YYO](https://www.qrz.com/db/N6YYO) in Huntington Beach, CA. This was on 20 the meter band
+where my antenna is resonant. 
+
+N6YYO had a really good directional antenna and was really patient as I repeated "Whiskey One Yankee Tango Quebec" (W1YTQ) several times in order to confirm it correctly. 
+I heard his signal in Massachusetts loud and clear. He gave me an RST
 of 4-3 which is 4 (out of 5) for readability and a 3 (out of 9) for Signal-Strength. The new
 antenna and my 20 watt Xeigu G90 made the trip to CA but barely.
+
+> The standard signal reporting method for amateur radio is 
+> the RST (Readability-Signal Strength-Tone) system
+> "[Practical Signal Reports](https://www.hamradioschool.com/post/practical-signal-reports)"
+> is a great resource for learning more
+
 
 This is all anecdotal and not very scientific - so far I'm pretty pleased with 
 the antenna. My takeaway isn't that the new
 EFHW antenna is better. This experience encourages me to continue 
-and experiment with antennas and other parts of my
-station to learn what works for different conditions and types of communication.
+and experiment with antennas and my
+station configuration to learn what works for different conditions, frequency bands and modes of
+communication.
 
