@@ -2,7 +2,7 @@
 layout: default
 title: Peddocks Island
 last_modified_date: September 25, 2023
-image: /sections/EFHW_Antenna/PXL_20230916_210636407.jpg
+image: /sections/Peddocks_Island/selfie.jpg
 nav_order: 88
 ---
 
