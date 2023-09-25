@@ -1,12 +1,13 @@
 ---
 layout: default
 title: W1YTQ legacy
-last_modified_date: January 25, 2023
+last_modified_date: September 25, 2023
 image: /sections/W1YTQ/fred_bean_military.png
 nav_order: 96
 ---
 
-# W1YTQ - my grandfather's call sign 
+# W1YTQ - my grandfather's call sign
+_written January 25, 2023_
 
 ![Picture of Fred Bean (call sign W1YTQ) in his Army dress uniform circa 1942](fred_bean_military.png "Fred Bean, US Army Signal Corps officer")
 
@@ -36,5 +37,20 @@ I've mounted the QSL stamp plate and a card in a frame for display in my home.
 ![](grandpa_on_tractor.png)
 
 I have many fond memories of working with him on his farm. We'd spend many hot summer days
-haying his fields and working on projects. 
+haying his fields and working on projects.
+
+## My grandfather's radio club
+_addendum September 25, 2023_
+
+Nine months after writing this post members of my grandfather's radio club, the [Pine State Amateur Radio Club](https://n1me.com/) invited me to join their [Facebook group](https://www.facebook.com/groups/144424449982).
+
+![Alt text](Screenshot from 2023-09-25 08-47-00.png)
+
+When I joined, a post in their group read, "Many of us older club members remember Fred. It’s good to see that his grandson now is W1YTQ. “Good good”, as Fred used to say."
+
+> Many of us older club members remember Fred. It’s good to see that 
+> his grandson now is W1YTQ. “Good good”, as Fred used to say.
+
+I'm not sure they were aware that their invitation and post to the club page were both written on his birthday, September 23rd. _Good good_
+
 
