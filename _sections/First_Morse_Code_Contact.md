@@ -11,7 +11,7 @@ nav_order: 87
 One of my goals when returning to amateur radio after a long break was to learn
 Morse code so that I could operate in CW. CW stands for continuous wave. CW is 
 how amateur radio operator refer to morse code operation because each dot or dash
-sent is an unbroken, Continuous Wave. 
+sent is an unbroken Continuous Wave. 
 
 ![Photo of a Morse Code key for ham radio](PXL_20231006_110746288.jpg)
 
@@ -21,10 +21,11 @@ power and exists within a narrow band of 500 Hertz. For comparison, an AM signal
 occupies about 10,000 Hertz of bandwidth and therefore requires more transmission power.
 And a single side-band signal (SSB) about half that (5,000 Hertz).
 
-I honestly can't remember exactly why I returned to amateur radio after 15 or so years
-away from it. But I remember stumbling across some videos of operators doing a Parks
-on the Air activation using a small radio powered by a 9 volt battery using CW. My son
-was getting into Scouts and camping; I thought that it would be a lot of fun to bring
+One reason I returned to amateur radio after 15 or so years was because I
+stumbled across some 
+[videos of operators using CW with small radio powered by a 9 volt batteries](https://youtu.be/A4Na0fuImpk?si=33RVVVrLPtIr0omv). 
+I couldn't believe they were making contacts over huge distances with such small radios.
+My son was getting into Scouts and camping; I thought that it would be a lot of fun to bring
 a radio camping and try it out myself.
 
 ## Setting goals
@@ -54,33 +55,48 @@ keeping up with a constant stream of code with no breaks. Although I can achieve
 Everyone has to start somewhere. I couldn't do drills forever and many friends online were encouraging me to 
 just begin.
 
-I have mainly focused on hunting Parks on the Air (POTA) activators because the exchange for this style of contact
-is very quick and formulaic. Also, I can use the POTA website to learn their call sign ahead of time. This means
-that I can tune into their frequency, listen for their announcement and verify their call sign. Then I only need to
-respond with my own call sign, my state and provide a signal report.
+### Parks on the Air formula for CW contacts
+
+I have mainly focused on hunting [Parks on the Air (POTA)](https://pota.app/#/) activators because these exchanges are quick and formulaic.
+Also, I can use the POTA website to learn their call sign ahead of time. 
+Then I only need to tune into their frequency and listen for their call. 
+I respond with my own call sign, my state and provide a signal report.
+
+> POTA CW exchanges are easy for beginners because they follow a short formula and
+> the POTA site provides the caller's call sign beforehand.
 
 I've been using the following "formula" as a CW POTA hunter:
 
-    Activator: CQ CQ CQ POTA [their call]
+    Activator: CQ CQ CQ POTA [activator call]
     Hunter (me): W1YTQ
-    Activator: W1YTQ TU 599
-    Hunter (me): TU 599 MA 73 (my state)
-    Activator: TU FER [their state/location] 73 QRC [their call]
+    Activator: W1YTQ GM UR 599 599 BK
+    Hunter (me): GM UR 599 599 MA MA 73 BK
+    Activator: TU ES 73 DE [activator call] K
+    Hunter (me): K
 
-As you can see from the quick exchange above, I only need to provide my own call sign, a signal report an my state of MA. 
-The formula varies a bit but POTA CW activations are short and the POTA site provides a lot of info up front to help me along.
+The formula above translates to:
+
+    Activator: I'm POTA hunter [activator call] looking for anyone out there
+    Hunter (me): Hello, I'm W1YTQ
+    Activator: W1YTQ, good morning, you have a strong signal
+    Hunter (me): Good morning. Your signal is strong in Massachusetts, good luck
+    Activator: Thank you and good luck from [activator call]
+
+As you can see from the quick exchange above, I only need to provide my own call sign, a signal report and my state. 
+The formula varies a bit but POTA CW activations are short and the POTA site provides information beforehand to help me along.
+
+I found this YouTube [video that walks through POTA exchanges](https://youtu.be/Fq3teRrNypA?si=uCMArsfFdqezxE3E) really helpful.
+If you watch the video you can see there is more nuance to POTA exchanges than what I describe above. But I really needed to keep 
+it simple to get started. 
 
 ### First confirmed CW QSO
 
-A POTA hunter, KG8SO, finally confirmed a QSO with me from Hillcrest State Gameland in Michigan.
+A POTA hunter, [KG8SO](https://www.qrz.com/db/KG8SO), finally confirmed a QSO with me from Hillcrest State Gameland in Michigan.
 
 ![Screenshot of POTA website showing a confirmed CW contact between W1YTQ and KG8CO](Screenshot from 2023-10-10 08-18-05.png)
 
 Seeing a hunter's POTA log with my call sign as a CW contact was better than any award. I have a long way to go but that
 first contact is the culmination of about a year of learning CW alone.
-
-I know that my CW operation is slow and rough. But I'd reached the point where I needed to just start. I have so much to 
-learn in this space. I need to be patient with myself because I've made a lot of mistakes.
 
 ## My history with CW
 
@@ -93,13 +109,20 @@ in FM mode.
 I don't remember ever seeing my grandfather, [Fred Bean]({% link _sections/W1YTQ.md %}), operate CW. He
 must have been pretty good at it given his time in the Army's Signal Corps.
 
-## Learning Morse code today
+## Learning Morse code
 
 In late 2022, about this time last year, I began learning Morse code again. It's much easier now than
 when I was first learning at the age of 18, thirty years ago. Rather than cassette tapes you can 
 use mobile applications and online resources. Three resources that I used were:
 
-  - [Morse Mania](https://play.google.com/store/apps/details?id=net.countrymania.morse) : I recommend this mobile app to start because it teaches morse code
-  - [Morse Machine](https://play.google.com/store/apps/details?id=com.iu4apc.morsemachine) : I still use this mobile app to drill myself and improve my individual letter recognition
-  - [LCWO (Learn CW Online)](https://lcwo.net/) : An internet site I use for advanced drills like call-sign decoding
+  - [Morse Mania](https://play.google.com/store/apps/details?id=net.countrymania.morse) - I recommend this mobile app to start because it teaches morse code
+  - [Morse Machine](https://play.google.com/store/apps/details?id=com.iu4apc.morsemachine) - I still use this mobile app to drill myself and improve my individual letter recognition
+  - [LCWO (Learn CW Online)](https://lcwo.net/) - An internet site I use for advanced drills like call-sign decoding
+
+## Going forward
+
+I have so much to learn in this space. I know that my CW operation is slow and rough. But I reached a point where I needed to get on the air and do it.  I need to be patient with myself. I make a lot of mistakes but that's okay.
+
+Actually getting on the air has increased my motivation to learn and continue practicing. 
+
 
