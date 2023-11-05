@@ -10,7 +10,7 @@ nav_order: 84
 
 Parks on the Air (POTA) is a popular amateur radio activity that involves operators setting up their radio equipment in designated public parks and natural areas. The goal is to make contacts with other amateur radio operators while enjoying the outdoors and promoting the conservation of these public spaces.
 
-10 months ago I [listed by goals for amateur radio for the year]({% link _sections/2023_Goals.md %}). The
+10 months ago I [listed my goals for amateur radio for the year]({% link _sections/2023_Goals.md %}). The
 first one was "Activate a park for POTA." Of all my goals, the POTA activation was the only one remaining.
 
 ![](PXL_20231104_180310593.jpg)
