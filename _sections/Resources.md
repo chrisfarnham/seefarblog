@@ -7,8 +7,8 @@ nav_order: 95
 
 # Always be learning
 
-When I earned my Novice ticket, before the internet, I was lucky to learn from my [grandfather, W1YTQ]({% link _sections/W1YTQ.md %}) and take 
-some adult edu classes. 
+When I earned my Novice ticket, before the internet, I was lucky to learn 
+from my [grandfather, W1YTQ]({% link _sections/W1YTQ.md %}) and take some adult education classes. 
 
 The internet hasn't made amateur radio obsolete. The internet makes learning and getting on the air easier than ever.
 
