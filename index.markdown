@@ -35,9 +35,17 @@ I am on the fediverse at [https://mastodon.roundpond.net/@chrisfarnham](https://
    >I am on the fediverse at https://mastodon.roundpond.net/@chrisfarnham</a>
 {:/}
 
+## My Parks on the Air activity
+
+My Parks on the Air (POTA) statistics
+
+{::nomarkdown}
+<p><iframe src="https://wd4dan.net/pota/?W1YTQ" height="1000" width="1000" frameborder="0" scrolling="no"></iframe></p>
+{:/}
+
 ## My recent radio contacts
 
-My most recent 15 radio contacts
+My most recent 15 radio contacts in my QRZ.com logbook
 
 {::nomarkdown}
 <iframe align="top" frameborder="0" height="600" scrolling="yes" src="https://logbook.qrz.com/lbstat/W1YTQ/" width="700"></iframe>
