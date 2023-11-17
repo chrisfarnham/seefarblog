@@ -40,7 +40,7 @@ I am on the fediverse at [https://mastodon.roundpond.net/@chrisfarnham](https://
 My Parks on the Air (POTA) statistics
 
 {::nomarkdown}
-<p><iframe src="https://wd4dan.net/pota/?W1YTQ" height="1000" width="1000" frameborder="0" scrolling="no"></iframe></p>
+<p><iframe src="https://wd4dan.net/pota/?W1YTQ" height="1250" width="1000" frameborder="0" scrolling="no"></iframe></p>
 {:/}
 
 ## My recent radio contacts
