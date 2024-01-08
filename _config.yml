@@ -21,7 +21,7 @@
 title: See Far Journal
 email: chris.farnham@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  One amateur raidio operator's journal for radio field operations, antenna builds, and radio related projects. Writing
+  One amateur radio operator's journal for radio field operations, antenna builds, and radio related projects. Writing
   is learning. I share my journey with you here.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com

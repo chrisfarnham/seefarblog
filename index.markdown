@@ -13,7 +13,8 @@ layout: home
 ![Blog author outside in the winter near a firepit with his dog Daisy](chris_daisy.jpg "Enjoying the fire pit with Daisy"){: .circular-image .image-right width="200em"}
 
 Personal site for Chris Farnham, W1YTQ. Where I share my adventures in radio, the outdoors
-and technology.
+and technology. If you're on the fediverse you can follow `@journal.seefar.dev@rss-parrot.net` to
+be notified when new posts are added to my site.
 
 On this page:
 
