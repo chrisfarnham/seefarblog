@@ -51,7 +51,7 @@ And here's a map of my FT8 contacts in the first 30 days of my radio.
 
 ![Map of my first FT8 contacts from my home shack](Screenshot from 2024-02-05 09-11-21.png){: width="700px" }
 
-### Summary of my first 20 days with the radio
+### Summary of my first 30 days with the radio
 
 ![](radio2.gif)
 
