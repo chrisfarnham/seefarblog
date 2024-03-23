@@ -3,6 +3,9 @@ layout: default
 title: First POTA Activation
 last_modified_date: November 4, 2023
 image: /sections/First_POTA_Activation/PXL_20231104_180310593.jpg
+toot_urls: 
+    - https://mastodon.roundpond.net/@chrisfarnham/111355151874519239
+    - https://mastodon.roundpond.net/@chrisfarnham/111353572682071768
 nav_order: 84
 ---
 

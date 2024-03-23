@@ -3,6 +3,8 @@ layout: default
 title: Radio and Electronics Merit Badges
 last_modified_date: January 8, 2024
 image: /sections/RadioMeritBadge/radio_badge.png
+toot_urls: 
+    - https://mastodon.roundpond.net/@chrisfarnham/111721175441636148
 nav_order: 83
 ---
 

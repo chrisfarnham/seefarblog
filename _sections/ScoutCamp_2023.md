@@ -3,6 +3,8 @@ layout: default
 title: Hidden Valley Scout Camp
 last_modified_date: August 21, 2023
 image: /sections/ScoutCamp_2023/hidden_valley_radio_ops_cropped.jpg
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/110987444952610554
 nav_order: 92
 ---
 

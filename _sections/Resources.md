@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Recommended resources
-last_modified_date: January 31, 2023 
+last_modified_date: January 31, 2023
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/109787042761245192
 nav_order: 95
 ---
 

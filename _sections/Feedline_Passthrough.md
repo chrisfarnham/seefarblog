@@ -3,6 +3,8 @@ layout: default
 title: Feedline Passthrough and Grounding
 last_modified_date: September 11, 2023
 image: /sections/Feedline_Passthrough/PXL_20230909_184711023.jpg
+toot_urls:
+   - https://mastodon.roundpond.net/@chrisfarnham/111052468691825928
 nav_order: 90
 ---
 

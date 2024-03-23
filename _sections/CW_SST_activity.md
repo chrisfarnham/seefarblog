@@ -3,6 +3,7 @@ layout: default
 title: CW Slow Speed Test
 last_modified_date: March 7, 2024
 image: /sections/CW_SST_activity/cw_speed_limit.webp
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/112055220285634184
 nav_order: 81
 ---
 

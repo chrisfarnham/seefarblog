@@ -3,6 +3,9 @@ layout: default
 title: Peddocks Island
 last_modified_date: September 25, 2023
 image: /sections/Peddocks_Island/selfie.jpg
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/111126084152054635
+    - https://mastodon.roundpond.net/@chrisfarnham/111125842355983536
 nav_order: 88
 ---
 

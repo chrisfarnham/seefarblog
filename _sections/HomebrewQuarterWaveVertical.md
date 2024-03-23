@@ -3,6 +3,8 @@ layout: default
 title: Low Cost Vertical HF Antenna
 last_modified_date: November 4, 2023
 image: /sections/HomebrewQuarterWaveVertical/low_cost_quarter_wave_whip.jpg
+toot_urls:
+   - https://mastodon.roundpond.net/@chrisfarnham/111326540878814794
 nav_order: 85
 ---
 

@@ -5,8 +5,36 @@
   <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
 {%- endif -%}
 
+{%- if page.toot_urls -%}
+  <p>
+    <img src="/wordmark-black-text.svg" class="p-1" width="150" height="auto"/>
+  </p>
+  <p class="fw-500">Comments and replies</p>
+{% for toot_urls in page.toot_urls %}
+  {% assign last_slice = toot_urls | split: "/"  | last %}
+
+  {%- if forloop.index == 2 -%}
+  <hr>
+  <p class="fw-500">Additional, related Mastodon comments</p>
+  {%- endif -%}
+
+  <a class="mastodon-post-and-replies"
+    href="{{ toot_urls | remove: last_slice }}"
+    data-toot-id="{{ last_slice }}"
+    data-exclude-post="{{ forloop.first }}"
+    >Replies to my toot</a>
+
+  {%- if forloop.first -%}
+  <p class="fw-500">Post a comment on this page by replying to the Mastodon post linked here
+    <a href="{{ toot_urls }}" target="_blank" rel="noopener noreferrer">{{ toot_urls }}</a>
+  </p>
+  {%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+
+<hr>
 <nav>
-  Fediverse.Radio Web Ring
+  This site is part of the Fediverse.Radio Web Ring
   <br/>
    <a href="https://ring.fediverse.radio/ring.php?site=journal.seefar.dev&direction=previous">← Back</a>
    <a href="https://ring.fediverse.radio/ring.php?site=journal.seefar.dev&direction=random">↑ Random</a>

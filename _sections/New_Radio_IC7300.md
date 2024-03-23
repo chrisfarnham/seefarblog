@@ -3,6 +3,7 @@ layout: default
 title: New Radio - an Icom IC-7300
 last_modified_date: February 2, 2024
 image: /sections/New_Radio_IC7300/PXL_20240131_203915682.jpg
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/111881117555600475
 nav_order: 82
 ---
 
