@@ -3,6 +3,12 @@ layout: default
 title: First Morse Code Contact
 last_modified_date: October 10, 2023
 image: /sections/First_Morse_Code_Contact/PXL_20231006_110746288.jpg
+toot_urls:
+  - https://mastodon.roundpond.net/@chrisfarnham/111211409055759497
+  - https://mastodon.roundpond.net/@chrisfarnham/111190995774316378
+  - https://mastodon.roundpond.net/@chrisfarnham/111187771225425458
+  - https://mastodon.roundpond.net/@chrisfarnham/111165761489803662
+  - https://mastodon.roundpond.net/@chrisfarnham/111960076226974132
 nav_order: 87
 ---
 

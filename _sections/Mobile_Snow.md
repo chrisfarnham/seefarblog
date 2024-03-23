@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Going mobile in the snow
-last_modified_date: January 23, 2023 
+last_modified_date: January 23, 2023
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/109745617736094412
 nav_order: 97
 ---
 

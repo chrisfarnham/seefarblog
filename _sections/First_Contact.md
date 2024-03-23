@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Getting that first contact
-last_modified_date: January 12, 2023 
+last_modified_date: January 12, 2023
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/109678365576359179
 nav_order: 99
 ---
 # Getting that first contact

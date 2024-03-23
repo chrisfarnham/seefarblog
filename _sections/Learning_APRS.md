@@ -3,6 +3,10 @@ layout: default
 title: Learning APRS
 last_modified_date: August 31, 2023
 image: /sections/Learning_APRS/PXL_20230830_115439422.jpg
+toot_urls:
+  - https://mastodon.roundpond.net/@chrisfarnham/111341031989933598
+  - https://mastodon.roundpond.net/@chrisfarnham/111064068358960105
+  - https://mastodon.roundpond.net/@chrisfarnham/111924851728953036
 nav_order: 91
 ---
 

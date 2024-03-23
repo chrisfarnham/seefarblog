@@ -3,6 +3,7 @@ layout: default
 title: Goals for 2024
 last_modified_date: January 29, 2024
 image: /sections/Radio_Goals/Screenshot%20from%202024-01-29%2009-48-11.png
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/111839937122783950
 nav_order: 94
 ---
 # Amateur radio goals for 2024 and a 2023 retrospective

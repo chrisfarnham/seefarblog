@@ -1,7 +1,8 @@
 ---
 layout: default
 title: First days of HF operation
-last_modified_date: January 17, 2023 
+last_modified_date: January 17, 2023
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/109705597417452134
 nav_order: 98
 ---
 

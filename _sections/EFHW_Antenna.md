@@ -3,6 +3,10 @@ layout: default
 title: EFHW Antenna
 last_modified_date: September 21, 2023
 image: /sections/EFHW_Antenna/PXL_20230916_210636407.jpg
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/111108866414901176
+    - https://mastodon.roundpond.net/@chrisfarnham/111100905056188214
+    - https://mastodon.roundpond.net/@chrisfarnham/111076872726610448
 nav_order: 89
 ---
 
