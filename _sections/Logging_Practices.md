@@ -3,7 +3,9 @@ layout: default
 title: Radio Logging and Mapping Tools
 last_modified_date: March 27, 2024
 image: /sections/Logging_Practices/RadioLoggingWorkflow.png
-# toot_urls: 
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112168136384882788
+    - https://mastodon.radio/@k8vsy/111721790708177179
 nav_order: 80
 ---
 
