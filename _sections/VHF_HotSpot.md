@@ -45,12 +45,16 @@ my [Yaesu FT5D](https://www.yaesu.com/indexVS.cfm?cmd=DisplayProducts&encProdID=
 
 ![](Screenshot from 2024-04-05 10-15-43.png)
 
+## Connecting to Maine
+
 In the screenshot above you can see the browser based dashboard for my hotspot. I've configured it to connect to
 a Yaesu System Fusion repeater group covering Maine and New Hampshire ([UFB New England network](https://ufbnewengland.com/)).
 Why not my local, Boston or Massachusetts networks? The Maine accents connect me with my home and remind me of
 time with my [grandfather, Fred Bean,]({% link _sections/W1YTQ.md %}) who's VHF radio was always listening on the [N1ME repeater](https://n1me.org/).
 
 ![](PXL_20240111_125409625.jpg)
+
+## A little (but not much) about my setup
 
 I'm not going to walk you through how I've set up my FT5DR and WPSD. There are a 
 [ton of videos on YouTube](https://www.youtube.com/watch?v=qlrBhBm_Sws) about that. 
@@ -69,6 +73,8 @@ I mostly hang out on the New England network (linked above) but sometimes partic
 [HRCC digital nets](https://hamradiocrashcourse.com/hrcc-net-calendar/) or pop onto European networks for fun.
 
 ![](PXL_20240112_030836770.jpg)
+
+## How do you use digital radio?
 
 Are there any other networks or talk groups I'm missing out on? Do you use digital amateur radio? If so, what are your
 thoughts?
