@@ -3,9 +3,9 @@ layout: default
 title: HotSpot for Digital VHF Radio
 last_modified_date: April 5, 2024
 image: /sections/VHF_HotSpot/vhf_digital_hotspot.png
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112168136384882788
-#     - https://mastodon.radio/@k8vsy/111721790708177179
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112221450783968833
+
 nav_order: 79
 ---
 
