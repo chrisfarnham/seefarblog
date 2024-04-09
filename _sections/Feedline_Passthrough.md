@@ -119,6 +119,15 @@ It was very simple to connect it all to a copper grounding bus and my radio.
 The specialty box and grounding supplies were ordered from [KF7P Metalwerks](https://www.kf7p.com/KF7P/Welcome.html). He was 
 incredibly helpful, answered my questions and designed the box according to my needs.
 
+When I submitted my order, Chris (KF7P) quickly followed up with an email message to ask me a few questions so he could
+ensure I was getting exactly what I needed.
+
+I sent him the following picture with a mocked-up box.
+
+![](antenna_passthrough.png)
+
+KF7P's response - "Sure that will work… hole for cables going through the wall in the back upper left corner, and incoming grommets in the bottom."
+
 ## Resources
 
 David Casler's [videos on grounding](https://youtu.be/Luy8XP8O390) and HRCC's [videos](https://www.youtube.com/watch?v=ALEkdOcnREs) were really helpful.
