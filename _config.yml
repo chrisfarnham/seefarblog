@@ -68,8 +68,6 @@ compress_html:
   # ignore:
   #   envs: all
 
-# External navigation links
-nav_external_links: []
 
 collections:
   sections:
@@ -91,13 +89,10 @@ just_the_docs:
       search_exclude: false
 
 
-# External navigation links
-nav_external_links:
-  - title: W1YTQ QRZ Page
-    url: https://www.qrz.com/db/w1ytq
-  - title: W1YTQ-7 APRS feed
-    url: http://aprs.n2rwe.com/station/W1YTQ-7/
- 
+# External navigation links moved to index page
+nav_external_links: []
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
