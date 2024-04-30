@@ -2,7 +2,7 @@
 layout: default
 title: First CW Only POTA Activation
 last_modified_date: April 29, 2024
-image: /sections/First_Morse_Code_Contact/PXL_20231006_110746288.jpg
+image: /sections/First_CW_Only_POTA_Activation/PXL_20240427_213025436.jpg
 toot_urls:
     - https://mastodon.roundpond.net/@chrisfarnham/112357639175233661
     - https://mastodon.roundpond.net/@chrisfarnham/112345851678228228
