@@ -3,9 +3,8 @@ layout: default
 title: Radio Interrupted
 last_modified_date: June 3, 2024
 image: /sections/Radio_Interrupted/PXL_20240502_170000236.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112357639175233661
-#     - https://mastodon.roundpond.net/@chrisfarnham/112345851678228228
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112559070952143493
 nav_order: 77
 ---
 
