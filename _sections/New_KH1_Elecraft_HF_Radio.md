@@ -2,7 +2,7 @@
 layout: default
 title: New KH1 Elecraft HF Radio
 last_modified_date: June 20, 2024
-image: /sections/PXL_20240614_114033425.PORTRAIT.jpg
+image: /sections/PXL_20240614_114033425.jpg
 toot_urls:
     - https://mastodon.roundpond.net/@chrisfarnham/112649299723258350
 nav_order: 76
@@ -20,7 +20,7 @@ entry I describe my first few days with the radio and share my general impressio
 
 I opened the box and within minutes had my KH1 tuned up to listen while sitting on my back patio.
 
-![](PXL_20240614_114033425.PORTRAIT.jpg)
+![](PXL_20240614_114033425.jpg)
 
 ## The Elecraft KH1 Transceiver
 
