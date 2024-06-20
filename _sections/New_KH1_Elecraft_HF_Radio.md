@@ -3,8 +3,8 @@ layout: default
 title: New KH1 Elecraft HF Radio
 last_modified_date: June 20, 2024
 image: /sections/PXL_20240614_114033425.PORTRAIT.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112559070952143493
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112649299723258350
 nav_order: 76
 ---
 
