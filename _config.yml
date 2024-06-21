@@ -74,6 +74,7 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
@@ -87,12 +88,13 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
+      
 
 
 # External navigation links moved to index page
 nav_external_links: []
 
-
+nav_enabled: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
