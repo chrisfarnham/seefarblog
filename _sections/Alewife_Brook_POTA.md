@@ -3,8 +3,8 @@ layout: default
 title: POTA at Alewife Brook State Reserve
 last_modified_date: June 21, 2024
 image: /sections/Alewife_Brook_POTA/PXL_20240619_200320510.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112649299723258350
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112656021762595145
 nav_order: 75
 ---
 
