@@ -7,6 +7,7 @@ toot_urls:
     - https://mastodon.roundpond.net/@chrisfarnham/109750436734165916
     - https://mastodon.roundpond.net/@chrisfarnham/111740161340235508
 nav_order: 96
+never_archive: true
 ---
 
 # W1YTQ - my grandfather's call sign
