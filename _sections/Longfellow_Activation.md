@@ -3,8 +3,9 @@ layout: default
 title: POTA at Longfellow House
 last_modified_date: July 1, 2024
 image: /sections/Longfellow_Activation/PXL_20240630_163608292.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112656021762595145
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112713363112556227
+    - https://mastodon.roundpond.net/@chrisfarnham/112706747799403902
 nav_order: 74
 ---
 
