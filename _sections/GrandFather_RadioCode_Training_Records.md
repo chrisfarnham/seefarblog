@@ -16,7 +16,7 @@ This collection was published in 1942 under the Allied Record Manufacturing Co.,
 radio code copying.
 
 The recorded material consists of a code aptitude test, introduction to Morse Code letters and numbers, and training at various speeds up to 16 WPM. You can [find these records on the Internet Archive](https://archive.org/details/U.S._Armed_Forces_Institute_Basic_Radio_Code_ca1942/) where they've been
-digitized are are available for anyone who wants to listen.
+digitized and are available for anyone to download and listen.
 
 
 ![](PXL_20240707_143056436.jpg){: width="50%" }
