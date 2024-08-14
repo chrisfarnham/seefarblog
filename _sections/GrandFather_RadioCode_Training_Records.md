@@ -15,7 +15,7 @@ Army Signal Corp officer. I was able to find these records on Discogs as [United
 This collection was published in 1942 under the Allied Record Manufacturing Co., Inc. label. I have the 2nd collection (records 13-22) which covers more advanced
 radio code copying.
 
-The recorded material consists of a code aptitude test, introduction to Morse Code letters and numbers, and training at various speeds up to 16 WPM. You can [find to these records on the Internet Archive](https://archive.org/details/U.S._Armed_Forces_Institute_Basic_Radio_Code_ca1942/) where they've been
+The recorded material consists of a code aptitude test, introduction to Morse Code letters and numbers, and training at various speeds up to 16 WPM. You can [find these records on the Internet Archive](https://archive.org/details/U.S._Armed_Forces_Institute_Basic_Radio_Code_ca1942/) where they've been
 digitized are are available for anyone who wants to listen.
 
 
