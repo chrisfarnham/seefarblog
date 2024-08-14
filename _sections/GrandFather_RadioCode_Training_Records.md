@@ -2,7 +2,7 @@
 layout: default
 title: My Grandfather's WWII Radio Code Records
 last_modified_date: August 14, 2024
-image: /sections/GrandFather_RadioCode_Training_Records/DadinIndia2.jpg
+image: /sections/GrandFather_RadioCode_Training_Records/DadinIndia2_preview.jpg
 # toot_urls:
 #     - https://mastodon.roundpond.net/@chrisfarnham/112713363112556227
 #     - https://mastodon.roundpond.net/@chrisfarnham/112706747799403902
