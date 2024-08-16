@@ -3,8 +3,8 @@ layout: default
 title: POTA at Charles River State Reserve
 last_modified_date: August 16, 2024
 image: /sections/POTACharlesRiverStateReserve/PXL_20240713_200101224.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112961774879247494
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/112973637552550854
 nav_order: 72
 ---
 
