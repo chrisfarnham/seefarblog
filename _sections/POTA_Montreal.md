@@ -13,7 +13,7 @@ nav_order: 71
 This past summer of 2024 I had the opportunity to go on vacation with my family in Montreal, Quebec. I was really excited
 to have a chance to operate amateur radio in a foreign country for the firs time.
 
-![](PXL_20240805_224958537.jpg)
+![](PXL_20240805_224958537.jpg){: width="500px" }
 
 ## US radio amateurs in Canada
 
@@ -38,7 +38,7 @@ walk down the street to the park and activate it twice.
 For both activations I used my [KH1 radio]({% link _sections/New_KH1_Elecraft_HF_Radio.md %}) which shines in an urban park like La Fontaine where I don't want
 to throw lines up into trees.
 
-![](PXL_20240803_220946428.jpg)
+![](PXL_20240803_220946428.jpg){: width="500px" }
 
 Here's a map of my contacts made from Parc La Fontaine during my stay in Montreal.
 
@@ -51,15 +51,15 @@ Radio propogation was horrid throughout the trip. I was unsuccessful my first tr
 The next day I went to the park determined to make 10 contacts required for a POTA activation. 
 Lucky for me the park was a short walk from our apartment; I activated the park over three separate sessions at morning, around noontime and then before dinner.
 
-![](PXL_20240803_221111370.jpg)
-![](PXL_20240804_105920823.jpg)
-![](PXL_20240804_110231280.jpg)
-![](PXL_20240805_131713564.jpg)
+![](PXL_20240803_221111370.jpg){: width="400px" }
+![](PXL_20240804_105920823.jpg){: width="400px" }
+![](PXL_20240804_110231280.jpg){: width="400px" }
+![](PXL_20240805_131713564.jpg){: width="400px" }
 
 It rained that afternoon and when I went for my evening session the park's benches and tables were wet. The KH1's "pedestrian portable"
 capabilities meant I could operate without dealing with a wet seat.
 
-![](PXL_20240805_223718429.jpg)
+![](PXL_20240805_223718429.jpg){: width="250px" }
 
 ### Second successful activation
 
@@ -68,13 +68,13 @@ much better that day and I was able to activate the park in a single session.
 
 It was a beautiful evening and there were dance performances at the pavilion. 
 
-![](PXL_20240807_221817755.jpg)
+![](PXL_20240807_221817755.jpg){: width="500px" }
 
 I found a picnic table and set to work. A famiily came by with their picnic basket and asked if they could join me. I enjoyed 
 answering their questions about Morse code and radio. They were amazed I was connecting with people so far away. I really
 appreciate the low key operations provided by the KH1 and Morse code. 
 
-![](PXL_20240807_234058118.jpg)
+![](PXL_20240807_234058118.jpg){: width="500px" }
 
 
 ## Great food!
@@ -82,10 +82,10 @@ appreciate the low key operations provided by the KH1 and Morse code.
 On the way to Montreal we stopped at [Farnham Ale & Lager](https://farnham-alelager.com/) in Farnham, Montreal. The food
 and beer was great.
 
-![](PXL_20240803_175809924.jpg)
+![](PXL_20240803_175809924.jpg){: width="500px" }
 
 We had so many great food experiences in Montreal. I made a special trip with my son, Josh, to Wilensky's Light Lunch.
 
-![](PXL_20240806_163122607.jpg)
+![](PXL_20240806_163122607.jpg){: width="500px" }
 
 I learned about Wilensky's through [Dave Chang on TV](https://www.youtube.com/watch?v=Y1i_GQRrgNU).
