@@ -3,8 +3,11 @@ layout: default
 title: POTA in Montreal, Canada
 last_modified_date: August 30, 2024
 image: /sections/POTA_Montreal/PXL_20240805_224958537.jpg
-# toot_urls:
-#    - https://mastodon.roundpond.net/@chrisfarnham/112973637552550854
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/113051701649469279
+    - https://mastodon.roundpond.net/@chrisfarnham/112915135756735540
+    - https://mastodon.roundpond.net/@chrisfarnham/112895002447095454
+
 nav_order: 71
 ---
 
