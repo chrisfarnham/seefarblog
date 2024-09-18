@@ -3,8 +3,9 @@ layout: default
 title: Scouting and POTA in the Boston Harbor
 last_modified_date: August 30, 2024
 image: /sections/POTA_Paddocks_Island/PXL_20240914_190406723.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/113051701649469279
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/113155821375348238
+
 
 
 nav_order: 70
