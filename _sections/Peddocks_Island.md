@@ -17,10 +17,10 @@ with my son's Scout Troop, Troop 119 Lexington.
 ![Selfie - the author with Peddocks Island, base church in the background](selfie.jpg)
 
 Peddocks Island is part of the Boston Harbor Island Recreational Area and is a registered POTA site,
-[K-2421](https://pota.app/#/park/K-2421).
+[US-2421](https://pota.app/#/park/US-2421).
 
 
-I wasn't able to activate K-2421. I was the interim Scoutmaster for the trip with 35 Scouts. I decided
+I wasn't able to activate US-2421. I was the interim Scoutmaster for the trip with 35 Scouts. I decided
 at the last minute to try and activate through VHF with my Yaesu FT-5DR; I didn't want to risk my HF equipment in the weather. I don't operate VHF very often.
 
 My time was spent being available to the 35 Scouts making camp, cooking etc. in some challenging weather. That meant I had the time to attempt an activation but not time to troubleshoot my location, different repeaters etc.

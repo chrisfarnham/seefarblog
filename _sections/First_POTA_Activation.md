@@ -18,10 +18,10 @@ first one was "Activate a park for POTA." Of all my goals, the POTA activation w
 
 ![](PXL_20231104_180310593.jpg)
 
-My original plan was to activate [Peddocks Island](https://pota.app/#/park/K-2421), but 
+My original plan was to activate [Peddocks Island](https://pota.app/#/park/US-2421), but 
 [I didn't bring my radio on that trip]({% link _sections/Peddocks_Island.md %}) due to the remnants of a 
 hurricane that was blowing through. So I set my sights on 
-[Minute Man National Park (POTA park K-0745)](https://pota.app/#/park/K-0745). 
+[Minute Man National Park (POTA park US-0745)](https://pota.app/#/park/US-0745). 
 
 ![](PXL_20231104_180359984.jpg)
 
