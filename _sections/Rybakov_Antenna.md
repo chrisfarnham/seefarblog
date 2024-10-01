@@ -3,8 +3,8 @@ layout: default
 title: Rybakov Antenna
 last_modified_date: September 30, 2024
 image: /sections/Rybakov_Antenna/PXL_20240929_173351217.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/113155821375348238
+toot_urls:
+   - https://mastodon.roundpond.net/@chrisfarnham/113229514713043852
 nav_order: 69
 ---
 
