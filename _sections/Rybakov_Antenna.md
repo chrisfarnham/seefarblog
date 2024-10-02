@@ -8,7 +8,7 @@ toot_urls:
 nav_order: 69
 ---
 
-# I built a Rybakov Antenna for POTA
+# I built a Rybakov antenna for POTA
 
 ![](PXL_20240929_175059460.jpg){: width="500px"}
 
@@ -59,10 +59,7 @@ some pipe clamps (or jubilee clips) with vinyl tubes to protect the pole and bet
 the vertical load. Then I secured it with paracord guylines. I pre-attached three short loops
 to the top, third clamp so I can easily attach the guy lines.
 
-![](PXL_20240929_193242337.jpg){: width="400px" } 
-
-
-![](PXL_20240928_160758994.jpg){: width="200px" .image-left} <!-- tautline hitch -->
+![](PXL_20240929_193242337.jpg){: width="400px" }
 
 Consider learning a few useful knots: 
 [a square knot](https://www.animatedknots.com/square-knot),
@@ -73,6 +70,8 @@ need to waste money on fancy rigging or hardware.
 
 > If you learn a few useful knots you'll be able to rig your masts, antennas and guy lines without
 > specialized hardware.
+
+![](PXL_20240928_160758994.jpg){: width="200px" .image-left} <!-- tautline hitch -->
 
 Here's a picture of a midshipmans hitch. This hitch is adjustable for tension to the guy stakes. I tie
 two guy lines loosely while the mast is laying on the ground.
@@ -98,17 +97,19 @@ It was a beautiful weekend and I was ready to activate.
 I built this antenna two consecutive days, Saturday and Sunday. The second day
 I built it I was able to get up and running much faster. Practice makes perfect.
 
-On the first day I forgot my Morse code key so I operated voice in SSB mode.
+On the first day I forgot [my Morse code key](https://cwmorse.us/products/sp4-sota-pota-cw-morse-magnetic-paddle-by-n0sa)
+, a detachable paddle that was
+with my other radio. So I operated voice in SSB (voice) mode.
 On the second day I brought my key and operated Morse code (CW) only.
+
+Morse code is more efficient so I was able to reach out a little farther (CA, Brazil) on day two.
 
 As usual I had a busy weekend with family activities. So between the two days
 I was probably sitting down operating the radio for about two and a half hours.
 
-Here are my CONUS (Continental United States) over those two days.
+Here are my CONUS (Continental United States) contacts over those two days.
 
 ![](screenshot1.png) <!-- CONUS -->
-
-Here are my European contacts over the two days.
 
 Both days I started on the 10 meter band and then ended my activation
 on the 20 meters. Most of the long distance contacts 
@@ -117,6 +118,8 @@ on the 20 meters. Most of the long distance contacts
 Italian contact was on 20 meters.
 
 > Radio waves are fickle and can surprise you. The Italian contact was on 20 meters.
+
+Here are my European contacts over the two days.
 
 ![](screenshot2.png) <!-- EU -->
 
