@@ -97,7 +97,7 @@ it simple to get started.
 
 ### First confirmed CW QSO
 
-A POTA hunter, [KG8SO](https://www.qrz.com/db/KG8SO), finally confirmed a QSO with me from Hillcrest State Gameland in Michigan.
+A POTA hunter, [KG8CO](https://www.qrz.com/db/KG8CO), finally confirmed a QSO with me from Hillcrest State Gameland in Michigan.
 
 ![Screenshot of POTA website showing a confirmed CW contact between W1YTQ and KG8CO](Screenshot from 2023-10-10 08-18-05.png)
 
