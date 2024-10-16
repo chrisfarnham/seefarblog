@@ -1,6 +1,6 @@
 ---
 layout: default
-title: W1YTQ legacy
+title: My Grandfather's Call Sign - W1YTQ
 last_modified_date: September 25, 2023
 image: /sections/W1YTQ/fred_bean_military.png
 toot_urls:
