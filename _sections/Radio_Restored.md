@@ -3,8 +3,8 @@ layout: default
 title: Radio Restored
 last_modified_date: October 16, 2024
 image: /sections/Radio_Restored/PXL_20241015_213244213.jpg
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/112656021762595145
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/113317219167633087
 nav_order: 68
 ---
 
