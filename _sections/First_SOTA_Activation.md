@@ -3,8 +3,8 @@ layout: default
 title: First SOTA Activation
 last_modified_date: October 23, 2024
 image: /sections/First_SOTA_Activation/chris_first_pota_w_kh1.png
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/113317219167633087
+toot_urls:
+  - https://mastodon.roundpond.net/@chrisfarnham/113360141421701482
 nav_order: 67
 ---
 
