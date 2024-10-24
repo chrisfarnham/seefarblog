@@ -73,6 +73,8 @@ Here's a screenshot of the reverse beacon network from my session on the mountai
 
 > What can the KH1 and Morse code on a mountain summit do with 5 watts? How about 890 miles received at 30 decibels?
 
+## Four contacts for the win
+
 I had about 30 minutes to make four contacts to officially activate 
 [Mt. Monadnock, SOTA reference W1/HA-009](https://www.sotadata.org.uk/en/summit/W1/HA-009). And
 I was just able to do it. I found an open frequency and made four quick contacts. I tried to get
