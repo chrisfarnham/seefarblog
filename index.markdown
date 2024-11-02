@@ -54,4 +54,15 @@ My most recent 15 radio contacts in my QRZ.com logbook
 {::nomarkdown}
 <iframe align="top" frameborder="0" height="600" scrolling="yes" src="https://logbook.qrz.com/lbstat/W1YTQ/" width="700"></iframe>
 {:/}
+## My Reverse Beacon Network activity
 
+The [Reverse Beacon Network](https://www.reversebeacon.net/main.php) is a worldwide network 
+of stations listening to the airwaves and reporting what stations they hear, when and how well. When I'm operating my radio
+in CW mode (Morse Code) RBN stations will decode my call sign (W1YTQ) and report it back to the network. If I have internet access,
+I can use the RBN check where my signal is being received and its strength (in decibels).
+
+The RBN database can be queried to show my radio activity over time (see below).
+
+{::nomarkdown}
+<a href="https://rbn.telegraphy.de/activity/W1YTQ"><img src="https://rbn.telegraphy.de/activity/image/W1YTQ"></a>
+{:/}
