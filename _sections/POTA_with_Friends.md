@@ -3,8 +3,8 @@ layout: default
 title: POTA with Friends
 last_modified_date: November 16, 2024
 image: /sections/POTA_with_Friends/IMG_1281.png
-# toot_urls:
-#     - https://mastodon.roundpond.net/@chrisfarnham/113317219167633087
+toot_urls:
+  - https://mastodon.roundpond.net/@chrisfarnham/113495844086406772
 nav_order: 66
 ---
 
@@ -58,5 +58,5 @@ Whatever your hobby, get out there and enjoy it with your people. You won't regr
 the Long Island CW Slow Speed Test session to enjoy their company and meet Michelle.
 
 And I'm so thankful that Michelle invited me out on a beautiful day to activate Great Brook Farm and
-make some new friends to enjoy and discuss our wonderful hobby.
+make some new friends to enjoy amateur radio together.
 
