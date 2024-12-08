@@ -3,8 +3,9 @@ layout: default
 title: RandomGram CW Contest
 last_modified_date: December 8, 2024
 image: /sections/CW_RandomGram_Contest/radio_station_randomgram.png
-# toot_urls:
-#   - https://mastodon.roundpond.net/@chrisfarnham/113495844086406772
+toot_urls:
+  - https://mastodon.roundpond.net/@chrisfarnham/113619489696727747
+  - https://mastodon.roundpond.net/@chrisfarnham/113612120981442230
 nav_order: 65
 ---
 
