@@ -3,7 +3,7 @@ layout: default
 title: Goals for 2025
 last_modified_date: January 01, 2025
 image: /sections/Radio_Goals_2025/happy_new_year_straightkey.png
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/111839937122783950
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113754946973802664
 nav_order: 64
 ---
 # A 2024 retrospective and my amateur radio goals for 2025
