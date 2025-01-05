@@ -3,7 +3,7 @@ layout: default
 title: Building the QBV 40/20-10 Switched Portable Antenna
 last_modified_date: January 04, 2025
 image: /sections/QBV_Antenna_Kit/PXL_20250104_211411778PORTRAIT.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113754946973802664
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113772809027467461
 nav_order: 63
 ---
 # Building QRPBuilder's QBV 40m/20m-10m antenna
