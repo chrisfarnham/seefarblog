@@ -54,7 +54,7 @@ My [ALLOSUN pocket multimeter](https://www.amazon.com/gp/product/B08HK295HK) cos
 ![](PXL_20241228_194327508.jpg)
 
 The coils are a large inductor which makes the antenna appear electrically longer in length. The coil allows the antenna to be shorter and more
-portable. When the switch open, the whole length of the coil is employed to increase its electrical length to operate as a 40 meter antenna.
+portable. When the switch is open, the whole length of the coil is active which increases its electrical length to operate as a 40 meter antenna.
 When the switch is closed, the lower coil is bypassed to decrease its electrical length and operate as a 20 meter antenna.
 
 
