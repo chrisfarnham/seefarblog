@@ -30,3 +30,9 @@ Here's a map of the contacts I made during the activation.
 Propagation was pretty good that day. I was able to get 23 contacts in about 40 minutes of operation. Here's
 a map of the [Reverse Beacon Network](https://www.reversebeacon.net/) data.
 ![](Screenshot 2025-01-12 at 2.19.39 PM.png)
+
+## First Vermont activation
+
+This is my first activation in Vermont. I find myself in Vermont fairly frequently for skiing and visiting friends.
+Easy to setup rigs like the KH1 and my new QBV 40/20 antenna allow me to get in some quick, easy radio time in
+between skiing and friends.
