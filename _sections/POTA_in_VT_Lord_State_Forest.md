@@ -34,5 +34,5 @@ a map of the [Reverse Beacon Network](https://www.reversebeacon.net/) data.
 ## First Vermont activation
 
 This is my first activation in Vermont. I find myself in Vermont fairly frequently for skiing and visiting friends.
-Easy to setup rigs like the KH1 and my new QBV 40/20 antenna allow me to get in some quick, easy radio time in
-between skiing and friends.
+Easy to setup rigs like the KH1 and my new QBV 40/20 antenna allow me to get in some quick, easy radio fun in
+as well.
