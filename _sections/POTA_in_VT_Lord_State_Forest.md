@@ -3,7 +3,7 @@ layout: default
 title: Apres ski POTA in VT
 last_modified_date: January 12, 2025
 image: /sections/POTA_in_VT_Lord_State_Forest/killington_pic.png
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113772809027467461
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113817166024373267
 nav_order: 62
 ---
 # A quick, apres ski, POTA activation of Lord State Forest in VT
