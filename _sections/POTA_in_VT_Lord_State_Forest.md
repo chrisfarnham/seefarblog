@@ -10,9 +10,16 @@ nav_order: 62
 
 After skiing Killington on a beautiful winter Vermont day. I went out for a quick POTA activation.
 
+It was a gorgeous day on the mountain. Here's a pic I took on [Ovation](https://www.trailforks.com/trails/ovation/).
+There was light snow on some nicely spaced moguls. You can see my daughter down slope. She's a great skier.
+
+![](PXL_20250111_191255954.jpg)
+
+Ski day is done. What's next?
+
 ![](killington_pic.png)
 
-Lord State Forest if 15 minutes from where we were staying in Reading, VT. My daughter, Layla, was relaxing and doing some
+Lord State Forest is 15 minutes from where we were staying in Reading, VT. My daughter, Layla, was relaxing and doing some
 schoolwork. There was about an hour of daylight left. So I decided to get a quick activation in.
 
 ![](PXL_20250111_215024586.jpg)
