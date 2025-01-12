@@ -15,7 +15,7 @@ There was light snow on some nicely spaced moguls. You can see my daughter down 
 
 ![](PXL_20250111_191255954.jpg)
 
-Ski day is done. What's next?
+Ski day is done. What's next? How about a quick POTA activation nearby?
 
 ![](killington_pic.png)
 
