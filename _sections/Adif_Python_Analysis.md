@@ -1,59 +1,75 @@
 ---
 layout: default
-title: Radio log file processing with Python
+title: Streamlined adif log processing with Python
 last_modified_date: January 15, 2025
 image: /sections/Adif_Python_Analysis/adif_python.png
 #toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113817166024373267
 nav_order: 61
 ---
 
-# Using Python to analyze and filter adi files
+# Using Python to analyze and filter adif log files
+{: .no_toc }
 
-I'm a Software Engineer by trade so I am lucky that when there is an amateur radio problem
-related to data or software I can often write a script or patch to address it.
+I'm a Software Engineer by trade. When facing issues with radio log data
+or software I can write a script or patch to address it.
+
+## These links jump directly to Python code examples
+{: .no_toc .text-delta }
+
+1. TOC
+{: toc }
 
 ![](adif_python.png)
 
 
 While writing my [2024 retrospective post]({% link _sections/Radio_Goals_2025.md %}) I
-wrote my own Python script to see
-a summary of QSOs for each operating mode, SSB (voice), CW (Morse Code), or digital (FT8).
+wrote some Python code that summarized my QSOs by operating mode (SSB [voice], CW [Morse Code], or digital [FT8]).
 
-I recently set a goal to operate with a straight key only and earn [Straight Key Century Club (SCKCC)](https://www.skccgroup.com/)
-Centurion status by logging QSOs with 100 other SKCC members. Doing so meant tracking my SKCC contacts to submit for the award
-in a separate digital ledger. I use QRZ's logger for my QSOs
-(as described in a [previous post on my logging practices]({% link _sections/Logging_Practices.md %})).
+![](../Radio_Goals_2025/operating_modes_breakdown.png){: .image-right width="350px"}
 
-Continuing to log with QRZ as I have posed some issues:
+
+I recently set a goal to earn my [Straight Key Century Club (SCKCC)](https://www.skccgroup.com/)
+Centurion award by logging QSOs with 100 other SKCC members. To apply for the award I need to track and submit my SKCC contacts
+in a separate digital ledger.
+
+I use QRZ's logger for my QSOs and this poses some issues:
 
  - Not every QSO I have is with an SKCC member
- - QRZ's logbook application is basic and doesn't support filtering by the comment field
+ - No way to filter by comment text in QRZ's basic logging app
 
-**I write `SKCC# [their ID number]` in the comment field for each SKCC QSO I log. Can I somehow
-filter by comment text and avoid manually maintaining a second SKCC-specific logbook?**
+Manually selecting SKCC QSOs for export then import into the SKCC logger is a pain
+
+However, when logging SKCC QSOs I write `SKCC# [their ID number]` in the comment field.
+
+Can I filter by comments containing the text 'SKCC' and avoid the manual import/export steps?
+
+> I described my logging workflows [in a previous post]({% link _sections/Logging_Practices.md %})
 
 ## SKCC specific logging via a custom Python script
+{: .no_toc }
 
-The simple Pyton script I wrote to analyze my 2024 QSOs was saved in a github repository
-([github.com/chrisfarnham/ham-radio-utils](https://github.com/chrisfarnham/ham-radio-utils)).
+My solution was to update my QSO analysis script. I added a new command (`./process-adif.py skcc`)
+to check each QSO record for a comment
+field containing SKCC and write those to a new adi file.
 
-I updated the script and added an additional command that checked each QSO record for a comment
-field containing SKCC and then writing those to a new adi file. Now, I can log my radio
-contacts as I always do and select only my SKCC QSOs for SKCC specific logging and awards.
+Now, I can log my radio contacts as usual and have the script filter for SKCC QSOs to submit to the club.
 
-The image below shows my updated logging flow.
+> I had an itch that Python could scratch
+
+The image below shows my SKCC logging flow.
 ![](Radio Logging Workflow.png)
 
+You can find my Python adif filtering and analysis scripts at
+[github.com/chrisfarnham/ham-radio-utils](https://github.com/chrisfarnham/ham-radio-utils).
+If you want to use my utility script as written or fork it for your own needs, please do so.
 
-## The adif-io Python library
+
+## Example adif-io Python code
 
 Reading and writing ADIF files is easy with the
 [adif-io Python library](https://gitlab.com/andreas_krueger_py/adif_io) written by [DJ3EI](https://www.qrz.com/db/DJ3EI).
 
-If you want to use my utility script as written or fork it for your own needs, please do so. The rest of this
-journal entry provides some basic examples of adif-io Python code so you can write your own scripts.
-
-> Here are some basic examples of processing adif files with `adif-io`
+Here are some basic examples of adif-io Python code so you can write your own scripts.
 
 ### Installing the adif-io library
 
@@ -121,7 +137,8 @@ Here's what the dataframe data looks like when printed to the console.
 
 ![](Screenshot 2025-01-15 at 9.10.27 AM.png)
 
-## Share your scripts and programs with me
+## Share your scripts and programs
+{: .no_toc }
 
 I'd love to learn about your logging utilities and scripts. A good way to respond is through
 [Mastodon](https://mastodon.roundpond.net/@chrisfarnham), a federated social network. Right now, with
