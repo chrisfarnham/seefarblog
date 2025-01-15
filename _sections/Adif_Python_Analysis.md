@@ -23,7 +23,7 @@ or software I can write a script or patch to address it.
 
 
 While writing my [2024 retrospective post]({% link _sections/Radio_Goals_2025.md %}) I
-wrote some Python code that summarized my QSOs by operating mode (SSB [voice], CW [Morse Code], or digital [FT8]).
+wrote some Python code to summarize my QSOs by operating mode (SSB [voice], CW [Morse Code], or digital [FT8]).
 
 ![](../Radio_Goals_2025/operating_modes_breakdown.png){: .image-right width="350px"}
 
@@ -32,18 +32,19 @@ I recently set a goal to earn my [Straight Key Century Club (SCKCC)](https://www
 Centurion award by logging QSOs with 100 other SKCC members. To apply for the award I need to track and submit my SKCC contacts
 in a separate digital ledger.
 
-I use QRZ's logger for my QSOs and this poses some issues:
+> I described my logging workflows [in a previous post]({% link _sections/Logging_Practices.md %})
+
+I use QRZ's logger and this poses some issues:
 
  - Not every QSO I have is with an SKCC member
  - No way to filter by comment text in QRZ's basic logging app
 
-Manually selecting SKCC QSOs for export then import into the SKCC logger is a pain
-
+Manually selecting SKCC QSOs for export then import into the SKCC logger is a pain.
 However, when logging SKCC QSOs I write `SKCC# [their ID number]` in the comment field.
+Could I filter by comments containing the text 'SKCC' and avoid manually selecting SKCC QSO records?
 
-Can I filter by comments containing the text 'SKCC' and avoid the manual import/export steps?
+![](Screenshot 2025-01-15 at 3.31.17 PM.png){: .image-right }
 
-> I described my logging workflows [in a previous post]({% link _sections/Logging_Practices.md %})
 
 ## SKCC specific logging via a custom Python script
 {: .no_toc }
@@ -54,14 +55,14 @@ field containing SKCC and write those to a new adi file.
 
 Now, I can log my radio contacts as usual and have the script filter for SKCC QSOs to submit to the club.
 
+You can find my Python adif filtering and analysis scripts at
+[github.com/chrisfarnham/ham-radio-utils](https://github.com/chrisfarnham/ham-radio-utils).
+If you want to use my utility script as written or fork it for your own needs, please do so.
+
 > I had an itch that Python could scratch
 
 The image below shows my SKCC logging flow.
 ![](Radio Logging Workflow.png)
-
-You can find my Python adif filtering and analysis scripts at
-[github.com/chrisfarnham/ham-radio-utils](https://github.com/chrisfarnham/ham-radio-utils).
-If you want to use my utility script as written or fork it for your own needs, please do so.
 
 
 ## Example adif-io Python code
@@ -73,7 +74,8 @@ Here are some basic examples of adif-io Python code so you can write your own sc
 
 ### Installing the adif-io library
 
-You should be using Python 3. I recommend you create a virtual environment (e.g., with `pyenv`).
+You should be using Python 3. I recommend you create a virtual environment (e.g., with `pyenv`) to write and
+manage your scripts and dependencies.
 
 ```bash
 pip install adif-io
