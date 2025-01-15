@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Streamlined adif log processing with Python
+title: Streamlined radio log processing with Python
 last_modified_date: January 15, 2025
 image: /sections/Adif_Python_Analysis/adif_python.png
 #toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113817166024373267
