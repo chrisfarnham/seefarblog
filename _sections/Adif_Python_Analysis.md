@@ -13,7 +13,7 @@ nav_order: 61
 I'm a Software Engineer by trade. When facing issues with radio log data
 or software I can write a script or patch to address it.
 
-## These links jump directly to Python code examples
+## Jump directly to Python code
 {: .no_toc .text-delta }
 
 1. TOC
