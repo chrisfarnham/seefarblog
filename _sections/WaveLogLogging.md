@@ -3,7 +3,7 @@ layout: default
 title: Radio logs with Wavelog and Podman Compose
 last_modified_date: February 2, 2025
 image: /sections/WaveLogLogging/PXL_20250202_160841886.jpg
-# toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113834329546138270
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113937277404318102
 nav_order: 60
 ---
 
