@@ -85,14 +85,15 @@ The SKCC website has [guidance for beginners](https://www.skccgroup.com/member_s
 
 Before this journey I wasn't a fan of straight keys. My sending was rough and didn't sound good to my own ear.
 I often use the [Reverse Beacon Network](https://www.reversebeacon.net/main.php?rows=10&max_age=10,hours&hide=distance_km) (RBN) while
-working CW. In the beginning the network wouldn't pick me up because my fist was poor and it coudn't decode my call sign.
+working CW. In the beginning the network wouldn't pick me up because my fist was poor and it couldn't decode my call sign.
 
 I began sending at around 15 words per minute. Now, after two months of practice, I send at about 17WPM and the RBN picks me up
 with no issues.
 
-I like the relaxed pace of back and forth that a straight key encourages. I now like the sound of my own unique fist. I believe
-I send pretty well and that I have easy copy. I also like that I can naturally speed up or slow down my sending according to
-the skill level of the receiver or if I'm sending more critical information like my SKCC number.
+I like the relaxed pace of back and forth that a straight key encourages. I now like the sound of my own unique fist. 
+I've been told that I'm easy to copy. I also like that with a straight key
+I can speed up or slow down naturally to match
+the receivor and that I can slow down for specific, critical information such as my SKCC number.
 
 ![](PXL_20241229_004347523.jpg)
 
