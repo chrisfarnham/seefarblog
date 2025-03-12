@@ -30,6 +30,11 @@ I use a straight key.
 
 ![](PXL_20231006_110746288.jpg)
 
+ - My motivation
+ - How I logged
+ - Map of contacts
+ - Going forward
+
 ![](PXL_20241229_004347523.jpg)
 
 ![](Screenshot 2025-03-10 at 9.52.24 AM.png)
