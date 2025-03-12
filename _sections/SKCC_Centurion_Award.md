@@ -49,9 +49,11 @@ After the fun I posted a festive photo to my Mastodon feed at [mastodon.roundpon
 ## Journey to Centurion status
 
 I began logging SKCC style QSOs January 7th. Here's a graph of my progress towards 
-100 unique SKCC contacts needed for Centurion status. As you can see I maintained a fairly steady pace along the way.
+100 unique SKCC contacts needed for Centurion status.[^2] As you can see I maintained a fairly steady pace along the way.
 
 ![](skcc_centurion_qsos_per_day.png)
+
+[^2]: Graph created using my `./process-adif.py` Python script at [github.com/chrisfarnham/ham-radio-utils](https://github.com/chrisfarnham/ham-radio-utils)
 
 And here's a map of the contacts I logged for SKCC Centurion
 
