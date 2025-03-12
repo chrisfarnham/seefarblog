@@ -90,10 +90,10 @@ working CW. In the beginning the network wouldn't pick me up because my fist was
 I began sending at around 15 words per minute. Now, after two months of practice, I send at about 17WPM and the RBN picks me up
 with no issues.
 
-I like the relaxed pace of back and forth that a straight key encourages. I now like the sound of my own unique fist. I believe
-I send pretty well and that I have easy copy. I also like that with a straight key
+I like the relaxed pace of back and forth that a straight key encourages. I now like the sound of my own unique fist. 
+I've been told that I'm easy to copy. I also like that with a straight key
 I can speed up or slow down naturally to match
-the the receivor or I can slow down for specific pieces of critical information such as my SKCC number.
+the receivor and that I can slow down for specific, critical information such as my SKCC number.
 
 ![](PXL_20241229_004347523.jpg)
 
