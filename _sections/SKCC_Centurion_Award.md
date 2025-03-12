@@ -3,7 +3,7 @@ layout: default
 title: Earning my SKCC Centurion Award
 last_modified_date: March 12, 2025
 image: /sections/SKCC_Centurion_Award/w1ytq_centurion_selfie.png
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/113937277404318102
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114151755075868310
 nav_order: 59
 ---
 
