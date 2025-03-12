@@ -28,7 +28,7 @@ Straight Key, Bug, and Cootie.
 
 [^1]: From the SKCC website, [www.skccgroup.com](https://www.skccgroup.com/) 
 
-Below is a photo of my straight [CWMorse Camel Back Straight Key](https://cwmorse.us/products/black-camel-back-straight-key).
+Below is a photo of my [CWMorse Camel Back Straight Key](https://cwmorse.us/products/black-camel-back-straight-key).
 
 ![](PXL_20231006_110746288.jpg)
 
