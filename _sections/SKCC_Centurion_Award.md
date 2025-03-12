@@ -9,12 +9,12 @@ nav_order: 59
 
 # Earning my Straight Key Century Club Centurion Award
 
-Earlier this week I submitted my application to the [Straight Key Century Club (SKCC)](https://www.skccgroup.com/) 
+Earlier this week, I submitted my application to the [Straight Key Century Club (SKCC)](https://www.skccgroup.com/) 
 and was awarded Centurion. 
 This award is given to club members who make contact with 100 other SKCC members and exchange SKCC ID numbers
 and names.
 
-The email announcing my achievment reads, "Chris Farnham, W1YTQ, SKCC# 27956, has achieved the coveted 1st generation
+The email announcing my achievement reads, "Chris Farnham, W1YTQ, SKCC# 27956, has achieved the coveted 1st generation
 SKCC member achievement known far and wide as the Centurion Cx1 award."
 
 ![Selfie of the author, W1YTQ, edited to look as if he's wearing a Centurion's helmet](w1ytq_centurion_selfie.png)
@@ -24,7 +24,7 @@ SKCC member achievement known far and wide as the Centurion Cx1 award."
 "The Straight Key Century Club is the most active group of mechanical-key Morse 
 code radiotelegraph operators in the world. Founded in January 2006, we have thousands of members around the globe." [^1]
 Members of this club make HF radio contacts using any of the three early original types of manual telegraph keys: 
-Straight Key, Bug and Cootie.
+Straight Key, Bug, and Cootie.
 
 [^1]: From the SKCC website, [www.skccgroup.com](https://www.skccgroup.com/) 
 
@@ -36,30 +36,30 @@ Below is a photo of my straight [CWMorse Camel Back Straight Key](https://cwmors
 
 I decided to go for SKCC Centurion after participating in the [ARRL's "Straight Key Night"](https://www.arrl.org/straight-key-night).
 Held every year on New Year's Eve, on Straight Key Night radio operators 
-celebrate our heritage by getting on the air and making casual contacts with a mechanical straight key using via Morse Code,
+celebrate our heritage by getting on the air and making casual contacts with a mechanical straight key using Morse Code,
 amateur radio's earliest mode.
 
-After the fun I posted a festive photo to my Mastodon feed at [mastodon.roundpond.net/@chrisfarnham](https://mastodon.roundpond.net/@chrisfarnham/113802164459278826) and declared that I would towards SKCC Centurion.
+After the fun, I posted a festive photo to my Mastodon feed at [mastodon.roundpond.net/@chrisfarnham](https://mastodon.roundpond.net/@chrisfarnham/113802164459278826) and declared that I would work towards SKCC Centurion.
 
 ![](d205bdc04fe40dbc.jpg)
 
-> In my Mastodon post I wrote, "I've decided to keep the momentum going and go for my 
+> In my Mastodon post, I wrote, "I've decided to keep the momentum going and go for my 
 > Centurion award with the Straight Key Century Club. If I get at least 2 QSOs a day then I'll have 100 QSOs within two months."
 
 ## Journey to Centurion status
 
-I began logging SKCC style QSOs January 7th. Here's a graph of my progress towards 
-100 unique SKCC contacts needed for Centurion status.[^2] As you can see I maintained a fairly steady pace along the way.
+I began logging SKCC style QSOs on January 7th. Here's a graph of my progress towards 
+100 unique SKCC contacts needed for Centurion status.[^2] As you can see, I maintained a fairly steady pace along the way.
 
 ![](skcc_centurion_qsos_per_day.png)
 
 [^2]: Graph created using my `./process-adif.py` Python script at [github.com/chrisfarnham/ham-radio-utils](https://github.com/chrisfarnham/ham-radio-utils)
 
-And here's a map of the contacts I logged for SKCC Centurion
+And here's a map of the contacts I logged for SKCC Centurion.
 
 ![](Screenshot 2025-03-10 at 9.52.24 AM.png)
 
-To find SKCC contacts to reach out to I would go to the SKCC sked page at [sked.skccgroup.com](https://sked.skccgroup.com/). The sked
+To find SKCC contacts to reach out to, I would go to the SKCC sked page at [sked.skccgroup.com](https://sked.skccgroup.com/). The sked
 page is a live online message board where members can announce they're on the air along with a brief message.
 
 A lot of my contacts were made by calling `CQ SKCC de W1YTQ` on the air with a status message of `CQ 14.054` (if I was on 20 meters) so
