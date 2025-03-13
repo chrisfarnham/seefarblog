@@ -70,10 +70,11 @@ The SKCC exchange requirements for Centurion are informal and basic. You're expe
 If someone answered my call, `W1YTQ de KA1ZPR`, I would respond thusly:
 
 ```
-KA1ZPR TU es GE  UR RST 599 MA  MY NAME CHRIS  MY SKCC NR 27956 27956C BK
+KA1ZPR TU es GE  UR RST 599 MA  
+MY NAME CHRIS  MY SKCC NR 27956 27956C BK
 ```
 
-The above would be received as, "KA1ZPR - Thank you and good evening. Your signal is loud and clear. My 
+The above would be received as, "KA1ZPR - Thank you and good evening. Your signal is loud and clear in Massachusetts. My 
 name is Chris. My SKCC number is 27956. Back to you."
 
 They would respond similarly and then the exchange would end with a typical farewell such as `GL 73 K`.
