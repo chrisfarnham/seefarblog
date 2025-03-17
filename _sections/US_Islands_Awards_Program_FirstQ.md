@@ -14,7 +14,7 @@ the [US Islands Awards Program](https://usislands.org/) for being the first to q
 
 K1MKD and KC1UHS and I (W1YTQ) received our awards at Troop 119 Lexington's Court of Honor.[^2]
 
-[^2]: Per Scouting policy, photo was used with specific permission from the guardians of the Scouts in the photo
+[^2]: Per Scouting policy, this photo was used with specific permission from the guardians of the Scouts shown
 
 ![](scouts_receive_firstq_award.jpg)
 
