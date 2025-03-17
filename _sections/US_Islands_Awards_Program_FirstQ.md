@@ -36,7 +36,8 @@ amateur radio call signs, K1MKD and KC1UHS, spent part of their day making radio
 After 
 sharing [our radio adventures on Peddocks Island on this site]({% link _sections/POTA_Paddocks_Island.md %}), 
 the US Islands on the Air
-Awards Manager, NS4J, reached out to let me know that we could complete a "USI Island Qualification Form" to be recognized
+Awards Manager, NS4J, reached out to let me know that we could complete a 
+[USI Island Qualification Form](https://usislands.org/report-an-island-qualification/) to be recognized
 by the program as being the first to qualify Peddocks Island.
 
 ![](FirstQAward_USIslandsAwardsProgram.jpeg)
