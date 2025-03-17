@@ -105,6 +105,8 @@ Thanks to all the SKCC members who worked me during this journey. Especially in 
 
 Now that I've earned Centurion I can append a C for Centurion to my SKCC number. I am now SKCC# 27956C.
 
+![](cx1_certificate_w1ytq_march102025.png)
+
 With warmer weather on the way, I'll likely return to more Parks on the Air and field operations where I prefer to use an
 electronic keyer and paddle.
 
