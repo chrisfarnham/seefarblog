@@ -20,9 +20,13 @@ K1MKD and KC1UHS and I (W1YTQ) received our awards at Troop 119 Lexington's Cour
 
 ## About the US Islands Awards Program
 
-USI is an amateur radio award program centered around chasing and activating river, lake, and ocean shore islands within the 50 United States and its Territories and Protectorates.[^1]
+USI is an amateur radio award program centered around chasing and activating river, lake, and ocean shore islands within the 50 United States and its Territories and Protectorates.
 
-[^1]: From the US Islands Awards Program website
+Numerous achievement awards are available for both island activators and island chasers.
+
+U.S. Islands is a great way to go on a mini-DXpedition without spending a lot of money. Discovering islands in your own backyard and setting up a station outdoors is always a good time. If hams have only operated outdoors during Field Day, we offer another route to get outside and enjoy portable ham radio in a different way.[^1]
+
+[^1]: This section taken from the US Islands Awards Program website
 
 ## Qualifying Peddocks Island for USI
 
