@@ -27,7 +27,9 @@ USI is an amateur radio award program centered around chasing and activating riv
 ## Qualifying Peddocks Island for USI
 
 In September 2024  our Scout Troop went camping on Peddocks Island. We set up a radio station and two Scouts with 
-amateur radio call signs, K1MKD and KC1UHS, spent part of their day making radio contacts. After 
+amateur radio call signs, K1MKD and KC1UHS, spent part of their day making radio contacts. 
+
+After 
 sharing [our radio adventures on Peddocks Island on this site]({% link _sections/POTA_Paddocks_Island.md %}), 
 the US Islands on the Air
 Awards Manager, NS4J, reached out to let me know that we could complete a "USI Island Qualification Form" to be recognized
