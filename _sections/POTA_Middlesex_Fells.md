@@ -30,6 +30,7 @@ I used my usual car activation POTA setup:
 
  - KH1 Transceiver
  - Kit made [QBV 40/20-10 switchable antenna]({% link _sections/QBV_Antenna_Kit.md %})
+    - Mounted on my SUV's rack with a [C-Clamp](https://www.amazon.com/dp/B075WP3H58)
  - Paper logging (as I always do in the field)
  - A good strong mug of homemade coffee
 
