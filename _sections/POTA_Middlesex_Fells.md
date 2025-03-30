@@ -55,7 +55,7 @@ me to get some local friends, like
 [Desmond (WK1V)]({% link _sections/POTA_with_Friends.md %}),
 added to my activation's log.
 
-> POTA isn't a contest. As an activator I control the pace
+> I like that POTA isn't a contest and I can pace my activation and enjoy my morning
 
 ![](PXL_20250330_132037364.jpg){: width="50%" height="auto"}
 
