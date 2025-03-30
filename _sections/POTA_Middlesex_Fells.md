@@ -3,7 +3,7 @@ layout: default
 title: POTA Middlesex Fells State Reserve
 last_modified_date: March 30, 2025
 image: /sections/POTA_Middlesex_Fells/kh1_transceiver.png
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114178054853760348
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114253832401643503
 nav_order: 57
 ---
 
