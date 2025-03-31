@@ -58,7 +58,7 @@ design options and gave them some information.
 ![](back_w1ytq_qsl_card.png)
 
 I wanted plenty of room to write a short message as well as
-a form for information about our radio exchange. The back shows my SKCC and LICW membership numbers.
+a form for information about our radio exchange. The back shows SKCC and LICW logos along with my personal membership numbers.
 
 > [KB3IFH QSL Cards](https://www.kb3ifhqslcards.com/) did a great job and I recommend them
 
