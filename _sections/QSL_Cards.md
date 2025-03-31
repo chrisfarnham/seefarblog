@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Personal QSL Cards
+title: My Personal QSL Card
 last_modified_date: March 31, 2025
 image: /sections/QSL_Cards/W1YTQ_Profile.png
 #toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114253832401643503
