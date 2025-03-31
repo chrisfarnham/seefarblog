@@ -42,9 +42,9 @@ My custom cards were ordered and printed by KB3IFH and they provide [excellent t
 design of your QSL card](https://storage.googleapis.com/wzukusers/user-34856890/documents/5bec64d367b74ca5b8dc1b5dd7ceb8fa/KB3IFH%20QSL%20Tips%20-%20Resolution%20-%20Bleed.pdf). I used [GIMP](https://www.gimp.org/) a free image editing program
 to create my own card according to their instructions.
 
-I started with a green base—after experimenting with colors for hours—then layered my photo 
+I started with a green base—after experimenting with colors for hours—then placed my photo 
 on top. To create a clean, layered effect, I carefully removed the forest background behind my left 
-shoulder revealing the colored layer below it.
+shoulder to reveal the layer below it.
 The green flat color provided a clean space on which I could superimpose text.
 
 Since the photo's dimensions didn’t match a standard card, I extended the green layer to 
