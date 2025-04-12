@@ -14,7 +14,8 @@ A couple weeks ago, I received an email from [Radio Oddity](https://www.radioddi
 along with an [M916 Heavy Duty Magnet Mount](https://www.radioddity.com/products/radioddity-m916-antenna-base) for about $120.
 
 I had been looking for something to use for car based POTA activations since my [QBV 40/20 switched antenna]({% link _sections/QBV_Antenna_Kit.md %})
-needed some repair.
+needed some repair. So Radio Oddity caught me at the right, weak moment. It wasn't long before it was delivered and it my car ready for
+my next POTA activation.
 
 ## HF-008 Antenna
 
