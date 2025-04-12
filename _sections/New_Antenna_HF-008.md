@@ -3,7 +3,7 @@ layout: default
 title: POTA with the HF-008 Antenna
 last_modified_date: April 11, 2025
 image: /sections/New_Antenna_HF-008/PXL_20250411_200031117.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114257055725470264
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114322179642234707
 nav_order: 55
 ---
 
