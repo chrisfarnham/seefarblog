@@ -172,3 +172,10 @@ ol.toots > li.toot::before {
     padding: 0.5rem;
     object-fit: cover;
 }
+
+.chart {
+    width: 50rem;
+    height: 20rem;
+    border: 0.0625rem solid #ccc;
+    padding: 0rem;
+}
