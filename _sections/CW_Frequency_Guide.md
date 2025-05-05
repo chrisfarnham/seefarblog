@@ -100,7 +100,7 @@ reserved for Extra class operators only.
 
 I've observed that a lot of DX stations operate within the Extra portion of the band as well as faster CW or
 QRQ (20 wpm and higher). Many of the faster operators operate outside of the Extra portion of the CW band
-on the lower portion of the official General CW portions (see 'QRQ - Fast Code Here').
+on the lower end of the official General CW band allocation (see 'QRQ - Fast Code Here').
 
 ### Slow Speed Test
 
