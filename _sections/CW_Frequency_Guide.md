@@ -13,24 +13,14 @@ nav_order: 54
 
 # W1YTQ's CW Frequency Guide for 20 and 40 Meters
 
-After operating CW for a bit now I've realized that there are different points and areas on my dial
-that I go to for different activities (e.g., POTA, SKCC, Slow Speed Test). I remember that when
-I first began CW I had a sense that different CW operators and activities took place on different
-areas of the band and I was unsure where I should be operating.
+When I first began CW, I sensed that CW operators and activities were clustered in specific areas of the band, but I was unsure where to operate.
 
-In this journal entry I'll list different, specific areas for different CW activities. This entry
-will include personal opinions or observations for different frequencies. I'll try to be clear when I'm
-stating a personal opinion as opposed to a rule.
-
-Note that this guide focuses on CW activities that I participate in.
+In this journal entry, I’ll outline specific areas of the band for various CW activities to help others navigate them. This entry reflects my personal observations and opinions about different frequencies. I’ll try to be clear when I’m stating a personal opinion as opposed to a rule.
 
 
 ![](vfo_photo.jpg)
 
-I'm providing this guide as an aid and because I find it interesting. I am not dictating
-which CW activities happen on which frequencies and enforcing it. I simply find it interesting
-that by informal agreement or habit, as you walk your VFO knob up and down the band you'll find
-pockets of operators congregating.
+I'm providing this guide as an aid because I find it interesting. I am not dictating which CW activities should occur on specific frequencies. Instead, I’ve observed that, by informal agreement or habit, operators tend to congregate in certain areas as you tune your VFO knob across the band.
 
 >  As you walk your VFO knob up and down the band you'll find pockets of different CW activities
 
@@ -115,7 +105,7 @@ band light up with CW activity.
 ### SKCC Frequencies
 
 [SKCC Member Operating Frequencies guide](https://www.skccgroup.com/membership_data/opfreq.php) recommends 14050 and
-14114 kHz, + or - 10 kHz, for 20 meter operations. I mostly operate around the 14050 kHz mark.
+14114 kHz, + or - 10 kHz, for 20 meter operations.
 
 ### Beginner CW Operators
 
@@ -222,7 +212,9 @@ My early CW operations were on 20 meters only because, at the time, my QTH
 antenna wouldn't get me on 40. I assumed, incorrectly, that the CW QRP calling frequency for 40 meters was
 7060 kHz. In researching this journal entry I learned that the recommended frequency is 7030 kHz.
 
-I've written about 20 and 40 meters today because those are the bands I operate on most frequently and where I have observed
-different clustered CW activities.
+When activating POTA I'll operate within the QRP ranges when I'm on my KH1.
 
-If you have thoughts or feedback I'd love to hear from you.
+If I'm not operating QRP for either POTA or SKCC at QTH and am on the 20 or 40 meter bands I'll typically
+operate in the x055 - x060 range. This is just out of habit.
+
+What about you?
