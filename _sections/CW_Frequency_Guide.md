@@ -220,6 +220,6 @@ antenna wouldn't get me on 40. I assumed, incorrectly, that the CW QRP calling f
 7060 kHz. In researching this journal entry I learned that the recommended frequency is 7030 kHz.
 
 I've written about 20 and 40 meters today because those are the bands I operate on most frequently and where I have observed
-different clustered CW activities. I've only been operating CW for a few years.
+different clustered CW activities.
 
 If you have thoughts or feedback I'd love to hear from you.
