@@ -18,9 +18,6 @@ that I go to for different activities (e.g., POTA, SKCC, Slow Speed Test). I rem
 I first began CW I had a sense that different CW operators and activities took place on different
 areas of the band and I was unsure where I should be operating.
 
-> The frequency charts in this journal entry were made using the [d3js](https://d3js.org/) Javascript library and
-> a [few custom functions](https://gist.github.com/chrisfarnham/5f396b506efaf64118516b286929a41d)
-
 In this journal entry I'll list different, specific areas for different CW activities. This entry
 will include personal opinions or observations for different frequencies. I'll try to be clear when I'm
 stating a personal opinion as opposed to a rule.
@@ -148,6 +145,9 @@ CW happens on both sides of FT8's operating frequency but my mental map of CW op
 separate operations as above
 or below FT8. Most of my "regular" operations are below FT8. And then if the band is crowded I'll move above FT8 to
 higher, less crowded portions of the band.
+
+> The frequency charts in this journal entry were made using the [d3.js](https://d3js.org/) Javascript library and
+> a [few custom functions](https://gist.github.com/chrisfarnham/5f396b506efaf64118516b286929a41d)
 
 ## 40 meter CW frequency guide
 
