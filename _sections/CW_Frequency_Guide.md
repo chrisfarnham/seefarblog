@@ -32,7 +32,7 @@ which CW activities happen on which frequencies and enforcing it. I simply find 
 that by informal agreement or habit, as you walk your VFO knob up and down the band you'll find
 pockets of operators congregating.
 
->  As you walk your VFO knob up and down the band you'll find pockets of operators congregating
+>  As you walk your VFO knob up and down the band you'll find pockets of different CW activities
 
 ## Sources for this entry
 
