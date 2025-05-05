@@ -83,7 +83,7 @@ Here are some official, suggested and personally observed CW frequencies on 20 m
             addBar(chart, 14028, 14045, "K1USN Weekly Slow Speed Test", -50);
             addBar(chart, 14000, 14030, "QRQ - Fast Code Here", 30);
             addBar(chart, 14000, 14020, "A lot of DX Stations", -20);
-            addBar(chart, 14000, 14025, "Extra Class (US Amateurs)", -85);
+            addBar(chart, 14000, 14025, "Extra Class (US Amateurs)", -90);
         }
 
         renderChart();
@@ -101,6 +101,9 @@ reserved for Extra class operators only.
 I've observed that a lot of DX stations operate within the Extra portion of the band as well as faster CW or
 QRQ (20 wpm and higher). Many of the faster operators operate outside of the Extra portion of the CW band
 on the lower end of the official General CW band allocation (see 'QRQ - Fast Code Here').
+
+> The frequency charts in this journal entry were made using the [d3.js](https://d3js.org/) Javascript library and
+> a [few custom functions](https://gist.github.com/chrisfarnham/5f396b506efaf64118516b286929a41d)
 
 ### Slow Speed Test
 
@@ -142,12 +145,12 @@ When I'm operating QRP I try to stay between 14060 and 14065 kHz.
 
 FT8, digital mode operations, is fixed at 14071 to 14074 kHz, a 3000 hertz bandwidth, and forms a sort of "digital wall."
 CW happens on both sides of FT8's operating frequency but my mental map of CW operations tends to
-separate operations as above
-or below FT8. Most of my "regular" operations are below FT8. And then if the band is crowded I'll move above FT8 to
-higher, less crowded portions of the band.
+separate operations as above or below FT8. Most of my "regular" operations are below FT8.
 
-> The frequency charts in this journal entry were made using the [d3.js](https://d3js.org/) Javascript library and
-> a [few custom functions](https://gist.github.com/chrisfarnham/5f396b506efaf64118516b286929a41d)
+If the band is crowded, which can happen during contests, I'll move above FT8 to higher, less crowded portions of the band.
+
+> During over over-crowded contest weekends I'll find refuge above the FT8 "digital wall" or move
+> to the [WARC bands](https://www.onallbands.com/warc-bands-what-are-they-and-how-can-i-take-advantage-of-them/)
 
 ## 40 meter CW frequency guide
 
@@ -200,7 +203,7 @@ Beginner SKCC operators are encouraged to go to 7114 kHz.
             document.getElementById("chart3").innerHTML = "";
 
             const chart = createChart("chart3", [7020, 7160]);
-            addBar(chart, 7028, 7048, "SKCC secondary", -25);
+            addBar(chart, 7028, 7048, "SKCC secondary", -30);
             addBar(chart, 7045, 7065, "SKCC primary", 15);
             addBar(chart, 7104, 7124, "SKCC Watering Hole", 15);
             addBar(chart, 7071, 7074, "FT8 (No CW here)", -20);
