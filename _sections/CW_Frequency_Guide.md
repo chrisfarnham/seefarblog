@@ -74,6 +74,9 @@ Here are some official, suggested and personally observed CW frequencies on 20 m
             addBar(chart, 14000, 14030, "QRQ - Fast Code Here", 30);
             addBar(chart, 14000, 14020, "A lot of DX Stations", -20);
             addBar(chart, 14000, 14025, "Extra Class (US Amateurs)", -90);
+            addBar(chart, 14052, 14062, "LICW Challenge", -110);
+
+
         }
 
         renderChart();
@@ -102,10 +105,12 @@ most weeks suggests operating 20 meters
 between 14028 and 14045 kHz. At midnight Zulu time on Mondays you'll see this portion of the
 band light up with CW activity.
 
-### SKCC Frequencies
+### SKCC and LICW Frequencies
 
 [SKCC Member Operating Frequencies guide](https://www.skccgroup.com/membership_data/opfreq.php) recommends 14050 and
 14114 kHz, + or - 10 kHz, for 20 meter operations.
+
+[Long Island CW Club (LICW) Challenge](https://licwchallenge.org/) calling frequencies are 14057 kHz + or - 5 kHz
 
 ### Beginner CW Operators
 
@@ -164,10 +169,13 @@ Here are some official, suggested and personally observed CW frequencies on 40 m
             addBar(chart, 7101, 7111, "Refuge During Contest Weekends", -35);
             addPoint(chart, 7047.5, "W1AW", 40);
             addBar(chart, 7071, 7074, "FT8 (No CW here)", -20);
-            addBar(chart, 7028, 7045, "K1USN Weekly Slow Speed Test", -50);
+            addBar(chart, 7028, 7045, "K1USN Weekly Slow Speed Test", -47);
             addBar(chart, 7000, 7030, "QRQ - Fast Code Here", 30);
             addBar(chart, 7000, 7020, "A lot of DX Stations", -20);
-            addBar(chart, 7000, 7025, "Extra Class (US Amateurs)", -85);
+            addBar(chart, 7000, 7025, "Extra Class (US Amateurs)", -75);
+            addBar(chart, 7052, 7062, "LICW (US)", -75);
+            addBar(chart, 7032, 7042, "LICW (EU)", -105);
+
         }
 
         renderChart();
@@ -177,6 +185,10 @@ Here are some official, suggested and personally observed CW frequencies on 40 m
 </script>
 {:/}
 
+### LICW Challenge calling frequencies on 40 meters
+
+Long Island CW Club (LICW) Challenge calling frequencies are 7057 kHz + or - 5 kHz for the US but in the EU
+the center frequency is 7037 kHz.
 
 ### SKCC on 40 meters
 
