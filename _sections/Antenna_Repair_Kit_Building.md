@@ -3,7 +3,7 @@ layout: default
 title: Antenna Repair and Kit Building
 last_modified_date: May 19, 2025
 image: /sections/Antenna_Repair_Kit_Building/PXL_20250510_151847803.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114457341631389993
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114534746197081957
 nav_order: 53
 ---
 
