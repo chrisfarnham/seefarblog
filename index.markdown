@@ -15,9 +15,9 @@ layout: home
 Personal site for Chris Farnham, W1YTQ. Where I share my adventures in radio, the outdoors
 and technology.
 
-Site visitors may want to go to my
-summarizing page, [Journal Entry Rollup]({% link _sections/Journal_Entry_Rollup.md %}) where
-I summarize and categorize the entries I've written (so far) for this site.
+Site visitors may want to go to this
+ page, [Journal Entry Rollup]({% link _sections/Journal_Entry_Rollup.md %}) that
+summarizes the entries by topics.
 As of Spring of 2025 I've written over forty different entries where I
 share and explore aspects of radio I enjoy.
 
