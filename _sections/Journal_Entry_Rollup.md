@@ -2,6 +2,7 @@
 layout: default
 title: Journal Entry Rollup
 image: /sections/Journal_Entry_Rollup/PXL_20241102_124656483.jpg
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114551420771158007
 last_modified_date: May 22, 2025
 nav_order: 52
 ---
