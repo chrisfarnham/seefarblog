@@ -13,7 +13,13 @@ layout: home
 ![Blog author outside in the winter near a firepit with his dog Daisy](chris_daisy.jpg "Enjoying the fire pit with Daisy"){: .circular-image .image-right width="200em"}
 
 Personal site for Chris Farnham, W1YTQ. Where I share my adventures in radio, the outdoors
-and technology. 
+and technology.
+
+Site visitors may want to go to this
+ page, [Journal Entry Rollup]({% link _sections/Journal_Entry_Rollup.md %}), that
+summarizes site entries by topics.
+As of Spring of 2025 I've written over forty posts where I
+share and explore my radio adventures.
 
 
 [My QRZ Page (W1YTQ)](https://www.qrz.com/db/w1ytq){: .fs-6 }
@@ -56,7 +62,7 @@ My most recent 15 radio contacts in my QRZ.com logbook
 {:/}
 ## My Reverse Beacon Network activity
 
-The [Reverse Beacon Network](https://www.reversebeacon.net/main.php) is a worldwide network 
+The [Reverse Beacon Network](https://www.reversebeacon.net/main.php) is a worldwide network
 of stations listening to the airwaves and reporting what stations they hear, when and how well. When I'm operating my radio
 in CW mode (Morse Code) RBN stations will decode my call sign (W1YTQ) and report it back to the network. If I have internet access,
 I can use the RBN check where my signal is being received and its strength (in decibels).
