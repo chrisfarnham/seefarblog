@@ -16,10 +16,10 @@ Personal site for Chris Farnham, W1YTQ. Where I share my adventures in radio, th
 and technology.
 
 Site visitors may want to go to this
- page, [Journal Entry Rollup]({% link _sections/Journal_Entry_Rollup.md %}) that
-summarizes the entries by topics.
-As of Spring of 2025 I've written over forty different entries where I
-share and explore aspects of radio I enjoy.
+ page, [Journal Entry Rollup]({% link _sections/Journal_Entry_Rollup.md %}), that
+summarizes site entries by topics.
+As of Spring of 2025 I've written over forty posts where I
+share and explore my radio adventures.
 
 
 [My QRZ Page (W1YTQ)](https://www.qrz.com/db/w1ytq){: .fs-6 }
