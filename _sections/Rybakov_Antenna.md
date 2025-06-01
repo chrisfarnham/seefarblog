@@ -5,6 +5,7 @@ last_modified_date: September 30, 2024
 image: /sections/Rybakov_Antenna/PXL_20240929_173351217.jpg
 toot_urls:
    - https://mastodon.roundpond.net/@chrisfarnham/113229514713043852
+   - https://mastodon.roundpond.net/@chrisfarnham/114603368645620664
 nav_order: 69
 ---
 
@@ -61,10 +62,10 @@ to the top, third clamp so I can easily attach the guy lines.
 
 ![](PXL_20240929_193242337.jpg){: width="400px" }
 
-Consider learning a few useful knots: 
+Consider learning a few useful knots:
 [a square knot](https://www.animatedknots.com/square-knot),
-[bowline](https://www.animatedknots.com/bowline-knot), 
-[two-half hitches](https://www.animatedknots.com/two-half-hitches-knot) and 
+[bowline](https://www.animatedknots.com/bowline-knot),
+[two-half hitches](https://www.animatedknots.com/two-half-hitches-knot) and
 [midshipmans hitch](https://www.animatedknots.com/midshipmans-hitch-knot) is all you need. You'll never
 need to waste money on fancy rigging or hardware.
 
@@ -75,11 +76,11 @@ need to waste money on fancy rigging or hardware.
 
 Here's a picture of a midshipmans hitch. This hitch is adjustable for tension to the guy stakes. I tie
 two guy lines loosely while the mast is laying on the ground.
-Then once the mast is lifted, I cinch them up and secure the final third line which keeps 
+Then once the mast is lifted, I cinch them up and secure the final third line which keeps
 the mast in place.
 
-Here's what the transformer and ground radial assembly at the bottom of the mast look like. 
-I laid out four 13 foot radials, borrowed from my 
+Here's what the transformer and ground radial assembly at the bottom of the mast look like.
+I laid out four 13 foot radials, borrowed from my
 [spike mounted quarter-wave whip]({% link _sections/HomebrewQuarterWaveVertical.md %}) assembly.
 
 ![](PXL_20240929_193328705.jpg){: width="300"} <!-- bottom of antenna -->
@@ -112,7 +113,7 @@ Here are my CONUS (Continental United States) contacts over those two days.
 ![](screenshot1.png) <!-- CONUS -->
 
 Both days I started on the 10 meter band and then ended my activation
-on the 20 meters. Most of the long distance contacts 
+on the 20 meters. Most of the long distance contacts
 (Belgium, France, Brazil, Mexico) were on 10 meters while the nearer contacts
 (Ontario, Ohio, Georgia) were on 20. Radio waves are fickle and can surprise you. The
 Italian contact was on 20 meters.
@@ -141,7 +142,7 @@ of the park. If it had been busy, I would have gone with a lower-profile setup l
 
 ## Performance
 
-As you can see from the map of contacts shown above, this antenna performs really well. 
+As you can see from the map of contacts shown above, this antenna performs really well.
 I had a lot of fun building it and want to thank Walt and Tim for introducing me
 to this style of antenna.
 
@@ -174,5 +175,3 @@ I felt like the SWR on 20 meters was higher than I expected. I'm pretty sure I c
 correctly at 25 feet. Should I add more radials?
 
 These questions will inspire my future experiments.
-
-
