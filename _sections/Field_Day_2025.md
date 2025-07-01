@@ -2,7 +2,7 @@
 layout: default
 title: Field Day 2025
 image: /sections/Field_Day_2025/PXL_20250628_191918368.jpg
-# toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114551420771158007
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114778140135006365
 last_modified_date: June 30, 2025
 nav_order: 51
 ---
