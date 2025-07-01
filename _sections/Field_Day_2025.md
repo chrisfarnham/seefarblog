@@ -18,7 +18,7 @@ field day with my local club in Massachusetts.
 
 ![](PXL_20250628_191918368.jpg)
 
-Between family activities I had a few hours and decided to check to to [Tyler State Park](https://pota.app/#/park/US-1430).
+Between family activities I had a few hours and decided to head out to [Tyler State Park](https://pota.app/#/park/US-1430).
 I figured I might do a Field Day POTA activation or run into other Field Day operators and say, "Hello."
 
 Sure enough a local club, the [Penn Wireless Association (W3SK)](https://www.pennwireless.org/), were set up in the park.
