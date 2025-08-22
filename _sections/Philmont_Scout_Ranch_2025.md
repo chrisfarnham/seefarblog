@@ -9,13 +9,11 @@ nav_order: 50
 
 # Philmont Scout Ranch, Summer of 2025
 
-
 ![](PXL_20250719_132606529.jpg)
 
-In July of 2025, I went on a 12 day trek to Philmont Scout Ranch in New Mexico with my son's Venture Crew. Here are
-some of the photos we took during out trip.
+In July of 2025, our crew took on the 12-12 Rugged trek, a 60-mile journey through the mountains and history of Philmont Scout Ranch. Starting at Zastrow Trailhead, we trained with our Ranger before heading deep into the backcountry. Along the way, we experienced a balance of challenging hikes, rich program activities, and unforgettable scenery.
 
-Some photos were taken with a disposable camera so that I could save battery on my phone.
+Here are some of the photos we took during out trip.
 
 The mountain ranges we were hiking in have a July monsoon season. So the semi-arid climate was bursting with beauty.
 
