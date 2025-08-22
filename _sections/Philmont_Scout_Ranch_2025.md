@@ -13,7 +13,7 @@ nav_order: 50
 
 In July of 2025, our crew took on the 12-12 Rugged trek, a 60-mile journey through the mountains and history of Philmont Scout Ranch. Starting at Zastrow Trailhead, we trained with our Ranger before heading deep into the backcountry. Along the way, we experienced a balance of challenging hikes, rich program activities, and unforgettable scenery.
 
-Here are some of the photos we took during out trip.
+Here are some of the photos we took during our trip.
 
 The mountain ranges we were hiking in have a July monsoon season. So the semi-arid climate was bursting with beauty.
 
