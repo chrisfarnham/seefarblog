@@ -33,27 +33,6 @@ We hiked 61 miles over 12 days at elevations between 7,000 and 11,000 feet.
 
 ![](Screenshot 2025-07-21 at 10.56.13 AM.png)
 
-## Sunrise at the Tooth of Time
-
-Photos taken at sunrize from the [Tooth of Time](https://en.wikipedia.org/wiki/Tooth_of_Time).
-
-![](PXL_20250719_115637264.jpg)
-
-
-![](PXL_20250719_115637264.jpg)
-
-
-## Crater Lake
-
-Many of the hiking days, the crew stops at themed sites for activities.
-
-These photos are from Crater Lake which recreates the "Continental Tie and Lumber
-Company" from 1914.
-![](PXL_20250716_193801049.jpg)
-![](PXL_20250717_154032866.jpg)
-![](PXL_20250717_154318815.jpg)
-![](PXL_20250717_160040352.jpg)
-
 
 ## Abreu
 
@@ -85,8 +64,6 @@ Crooked Creak is an themed homestead from 1875 New Mexico
 
 A highlight of our trip was Beaubien ranch where we were able to do some horseback riding.
 
-
-
 ![](14(1).jpg)
 
 ![](16(1).jpg)
@@ -98,3 +75,28 @@ A highlight of our trip was Beaubien ranch where we were able to do some horseba
 ![](22.jpg)
 
 ![](25.jpg)
+
+
+
+## Crater Lake
+
+Many of the hiking days, the crew stops at themed sites for activities.
+
+These photos are from Crater Lake which recreates the "Continental Tie and Lumber
+Company" from 1914.
+![](PXL_20250716_193801049.jpg)
+![](PXL_20250717_154032866.jpg)
+![](PXL_20250717_154318815.jpg)
+![](PXL_20250717_160040352.jpg)
+
+
+## Sunrise at the Tooth of Time
+
+Photos taken at sunrize from the [Tooth of Time](https://en.wikipedia.org/wiki/Tooth_of_Time).
+
+![](PXL_20250719_115637264.jpg)
+
+
+![](PXL_20250719_115637264.jpg)
+
+![](IMG_4441.jpeg)
