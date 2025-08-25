@@ -2,7 +2,7 @@
 layout: default
 title: Philmont Scout Ranch, 2025
 image: /sections/Philmont_Scout_Ranch_2025/PXL_20250717_160040352.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114778140135006365
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115089965035382552
 last_modified_date: August 22, 2025
 nav_order: 50
 ---
