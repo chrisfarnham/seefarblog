@@ -44,6 +44,8 @@ Abreu is a themed camp where staff members portray the Abreu family in 1912 as t
 
 ![](10(3).jpg)
 
+![](25 (1).jpg)
+
 ## Carson Meadows
 
 Some of our best views were from Carson Meadows.
@@ -108,9 +110,6 @@ Company" from 1914.
 ## Sunrise at the Tooth of Time
 
 Photos taken at sunrize from the [Tooth of Time](https://en.wikipedia.org/wiki/Tooth_of_Time).
-
-![](PXL_20250719_115637264.jpg)
-
 
 ![](PXL_20250719_115637264.jpg)
 
