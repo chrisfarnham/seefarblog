@@ -127,6 +127,7 @@ Resources and experiences for those interested in building radio kits and learni
 ![]({% link _sections/RadioMeritBadge/radio_badge.png %}){: .image-right width="150px"}
 
 Stories and resources about introducing young people to amateur radio, including Scouting events, Merit Madges, and youth awards.
+- [Hiking at Philmont Scout Ranch]({% link _sections/Philmont_Scout_Ranch_2025.md %})
 - [Hidden Valley Scout Camp]({% link _sections/ScoutCamp_2023.md %})
 - [Jamboree on the Air 2023]({% link _sections/JOTA_2023.md %})
 - [Radio and Electronics Merit Badges]({% link _sections/RadioMeritBadge.md %})
