@@ -32,6 +32,10 @@ We hiked 61 miles over 12 days at elevations between 7,000 and 11,000 feet.
 ![](Screenshot 2025-07-21 at 10.56.13 AM.png)
 
 
+> This post is the only post on this site that isn't about amateur radio. I brought
+> my Elecraft KH1 but kept it in a locker while on the hike.
+> We had a busy itinerary and I wanted to focus on Philmont activities with the crew and my son.
+
 ## Abreu
 
 Abreu is a themed camp where staff members portray the Abreu family in 1912 as they lived on this homestead.
@@ -58,6 +62,20 @@ Crooked Creak is an themed homestead from 1875 New Mexico
 
 ![](26(1).jpg)
 
+## Comanche Peak
+
+On the way to Mt Phillips (see the photo of Josh and me above) we stopped at
+Clear Creek and shot some black powder rifles.
+
+![](chris_blackpowder.jpg)
+
+![](josh_blackpowder3.jpg)
+
+Then we had our longest hike and highest elevation of the trek. Because Comanche Peak was a dry
+campsite with no water. I was carring 8 liters of water in my pack (~ 55 lbs).
+
+That evening when we pulled into our site I had just enough energy to pitch my tent and get in bed.
+
 ## Beaubien
 
 A highlight of our trip was Beaubien ranch where we were able to do some horseback riding.
@@ -73,7 +91,6 @@ A highlight of our trip was Beaubien ranch where we were able to do some horseba
 ![](22.jpg)
 
 ![](25.jpg)
-
 
 
 ## Crater Lake
