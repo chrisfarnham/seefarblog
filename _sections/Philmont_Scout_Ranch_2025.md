@@ -52,6 +52,11 @@ Some of our best views were from Carson Meadows.
 
 ![](16(3).jpg)
 
+This photo shows the Tooth of Time over Carson Meadows. In nine days we would be watching
+the sun rise from the top of the Tooth itself.
+
+![](7.jpg)
+
 ## A bear!
 
 Between Carson Meadows and Fish Camp we we ran into this bear. Josh was in the front of the crew so he got a good photo of it with his disposable camera.
