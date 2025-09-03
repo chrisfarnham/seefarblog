@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Three Parks in Maine
-image: /sections/Philmont_Scout_Ranch_2025/PXL_20250717_160040352.jpg
+image: /sections/POTA_in_Maine/PXL_20250831_133830528.jpg
 #toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115089965035382552
 last_modified_date: August 31, 2025
 nav_order: 49
