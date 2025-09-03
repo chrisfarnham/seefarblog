@@ -89,6 +89,7 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 - [First CW Only POTA Activation]({% link _sections/First_CW_Only_POTA_Activation.md %})
 - [First SOTA Activation]({% link _sections/First_SOTA_Activation.md %})
 - [Peddocks Island]({% link _sections/Peddocks_Island.md %})
+- [Three Parks in Maine]({% link _sections/POTA_in_Maine.md %})
 
 ---
 
