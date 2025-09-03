@@ -2,7 +2,7 @@
 layout: default
 title: Three Parks in Maine
 image: /sections/POTA_in_Maine/PXL_20250831_133830528.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115089965035382552
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115140776764154520
 last_modified_date: August 31, 2025
 nav_order: 49
 ---
