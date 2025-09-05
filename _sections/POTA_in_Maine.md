@@ -22,7 +22,7 @@ my dad's place.
 
 I used the following gear for each of these activations:
 
- - [Xeigu G90 HF fadio]({% link _sections/Starting_Setup.md %})
+ - [Xeigu G90 HF radio]({% link _sections/Starting_Setup.md %})
  - Home brew [quarter wave whip on a ground spike]({% link _sections/HomebrewQuarterWaveVertical.md %})
  - [Modern Morse paddle](https://www.instagram.com/aaronmakeskeys/)
 
