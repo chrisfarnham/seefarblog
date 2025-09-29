@@ -40,8 +40,7 @@ contacts for me were Alaska and Ukraine!
 
 ![](46203ef7853615bb.png)
 
-Here's the Ukraine contact I made. Michelle set up a great station. 100 watts is basically QRO for me when
-doing POTA. Her 20 meter dipole antenna was working very well that day.
+Here's the Ukraine contact I made. Michelle set up a great station. Her 20 meter dipole antenna was working very well that day.
 
 ![](ukrain_qso_path.png)
 
