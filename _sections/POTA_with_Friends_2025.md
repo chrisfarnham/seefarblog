@@ -54,7 +54,7 @@ Later, when Adam showed up, we decided to set up another station using
 my Xeigu G90, but I cleaned out my field kit the night before and left my power cable at home!
 Luckily I had my KH1 with me and that has a tuner appropriate for the Rybakov, a non-resonant antenna.
 
-We set up a vertical antenna, with a vertical polarity, to minimize interference bewtween our station and Michelle's wire dipole antenna.
+We set up a vertical antenna which has a vertical polarity and should interfere less with and Michelle's nearby hoizontal dipole antenna.
 
 Adam took this photo of me operating the station shortly after connecting my KH1.
 
@@ -74,8 +74,7 @@ I'm lucky to belong to a [radio club (PART of Westford, MA)](https://wb1gof.org/
 POTA operators. We have an active group chat where announce our local POTA activations for
 club members to join in or make contacts with activators.
 
-I enjoy POTA alone  - especially in the morning while enjoying coffee. But POTA with
-friends can be a lot of fun. I wrote about [POTA with friends last year]({% link _sections/POTA_with_Friends.md %}),
-yesterday's session was fun and worth sharing here.
+Yesterday's session was fun and worth sharing here. I wrote about [POTA with friends last year]({% link _sections/POTA_with_Friends.md %}).
+I enjoy POTA alone  - especially in the morning with coffee - but POTA with friends can be a lot of fun.
 
-And a 5 watt QSO from Massachusetts to Japan is something to celebrate!
+![]({% link _sections/Journal_Entry_Rollup/PXL_20241102_124656483.jpg %})
