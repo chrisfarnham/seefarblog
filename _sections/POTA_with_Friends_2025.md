@@ -38,7 +38,7 @@ that day.
 
 ![](PXL_20250928_184411598.jpg)
 
-Later, I got on her station to activate the park myself. Here is my contact map for the day. Noteable
+Later, I got on her station to activate the park myself. Here is my contact map for the day. Notable
 contacts for me were Alaska and Ukraine!
 
 ![](46203ef7853615bb.png)
@@ -54,7 +54,7 @@ Later, when Adam showed up, we decided to set up another station using
 my Xeigu G90, but I cleaned out my field kit the night before and left my power cable at home!
 Luckily I had my KH1 with me and that has a tuner appropriate for the Rybakov, a non-resonant antenna.
 
-We set up a vertical antenna (with a vertical polarity) do reduce interference with and Michelle's nearby horizontal dipole antenna.
+We set up a vertical antenna (with a vertical polarity) to reduce interference with and Michelle's nearby horizontal dipole antenna.
 
 Adam took this photo of me operating the station shortly after connecting my KH1.
 
