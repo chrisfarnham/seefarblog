@@ -46,17 +46,18 @@ Here's the Ukraine contact I made. Michelle set up a great station. Her 20 meter
 
 ## 5 watts and a Rybakov contact Japan
 
-Later, Adam and Mike showed up - we decided to set up another station using
+Later, when Adam showed up, we decided to set up another station using
 [my Rybakov antenna]({% link _sections/Rybakov_Antenna.md %}). The plan was to use
 my Xeigu G90, but I cleaned out my field kit the night before and left my power cable at home!
 Luckily I had my KH1 with me and that has a tuner appropriate for the Rybakov, a non-resonant antenna.
 
-Adam took this photo of me operating the station shortly after connecting my KH1. I made a few
-contacts.
+We set up a vertical antenna, with a vertical polarity, to minimize interference bewtween our station and Michelle's wire dipole antenna.
+
+Adam took this photo of me operating the station shortly after connecting my KH1.
 
 ![](farnham_field_delaney.jpg)
 
-Then Adam took over the station to activate the park himself; his 10th contact was with Japan!
+I made a few contacts then Adam took over the station to activate the park himself. Adam's 10th contact was with Japan!
 
 > A QSO between Massachusetts and Japan with a 5 watt transceiver is insane!
 

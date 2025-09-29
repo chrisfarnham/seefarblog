@@ -72,6 +72,7 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 
 - [First POTA Activation]({% link _sections/First_POTA_Activation.md %})
 - [POTA with Friends]({% link _sections/POTA_with_Friends.md %})
+- [POTA with Friends (2025)]({% link _sections/POTA_with_Friends_2025.md %})
 - [POTA Middlesex Fells State Reserve]({% link _sections/POTA_Middlesex_Fells.md %})
 - [Scouting and POTA in the Boston Harbor]({% link _sections/POTA_Paddocks_Island.md %})
 - [POTA in Montreal, Canada]({% link _sections/POTA_Montreal.md %})
