@@ -1,7 +1,7 @@
 ---
 layout: default
 title: POTA with Friends (2025)
-image: /sections/POTA_with_Friends_2025/farnham_field_delaney.jpg
+image: /sections/POTA_with_Friends_2025/chris_field_closeup.jpg
 # toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115231121173871928
 last_modified_date: September 29, 2025
 nav_order: 47
@@ -9,21 +9,24 @@ nav_order: 47
 
 # POTA with Friends (2025 Edition)
 
-This past Sunday (September 28, 2025) I was able to get out and enjoy a Parks on the Air activation at
+![](chris_field_closeup.jpg)
+
+This past Sunday (September 28, 2025) I was able to get out with friends and enjoy a Parks on the Air activation at
 [Delaney Wildlife Management Area (US-11589)](https://pota.app/#/park/US-11589) with
 local amateur radio friends. Delaney abutts several towns in the area - we set up
 near the boat landing at Delaney Pond. As you can see we had a beautiful Fall day
 activation. Radio conditions were excellent.
 
-At Delaney were Michelle (KC1UML), Adam (AA1N) and Mike (AB1HV).
+> POTA with Michelle (KC1UML), Adam (AA1N) and Mike (AB1HV) was a lot of fun
 
 ## 20 meters in the shade
 
 When I arrived, Michelle was setting up her IC-7300. We were chatting beforehand about how
 sunny the field can get so I brought my pop-up tent to provide some shade. Here's Michelle's
-at her field station (sorry about the shadows but that was the point):
+at her field station (sorry about the shadows but that was the point).
 
- - 20 meter dipole
+Michelle's station was built using:
+ - 20 meter dipole with a Palomar balun
  - IC-7300
  - Vibroplex Champion key
 
