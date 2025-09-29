@@ -2,7 +2,7 @@
 layout: default
 title: POTA with Friends (2025)
 image: /sections/POTA_with_Friends_2025/chris_field_closeup.jpg
-# toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115231121173871928
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115289049826858502
 last_modified_date: September 29, 2025
 nav_order: 47
 ---
