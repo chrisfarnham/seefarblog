@@ -57,7 +57,7 @@ contacts.
 
 ![](farnham_field_delaney.jpg)
 
-Then Adam began operating to activate the park himself; his 10th contact was with Japan!
+Then Adam took over the station to activate the park himself; his 10th contact was with Japan!
 
 > A QSO between Massachusetts and Japan with a 5 watt transceiver is insane!
 
