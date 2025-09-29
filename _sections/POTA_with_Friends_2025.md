@@ -71,7 +71,7 @@ I'm lucky to belong to a [radio club (PART of Westford, MA)](https://wb1gof.org/
 POTA operators. We have an active group chat where announce our local POTA activations for
 club members to join in or make contacts with activators.
 
-I enjoy POTA by myself  - especially in the morning while enjoying coffee. But POTA with
+I enjoy POTA alone  - especially in the morning while enjoying coffee. But POTA with
 friends can be a lot of fun. I wrote about [POTA with friends last year]({% link _sections/POTA_with_Friends.md %}),
 yesterday's session was fun and worth writing about again.
 
