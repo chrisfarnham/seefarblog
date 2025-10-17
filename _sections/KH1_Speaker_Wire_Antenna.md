@@ -15,15 +15,15 @@ I got the idea from Thomas Witherspoon, K4SWL. He used the same setup in his art
 
 I cut a 28.5-foot length of speaker wire, just like Thomas did. I connected it to my KH1 with a BNC binding post adapter.
 
-![alt text](PXL_20251004_204015434.jpg)
+![](PXL_20251004_204015434.jpg)
 
 The weather was perfect.
 
-![alt text](PXL_20251004_211313130.jpg)
+![](PXL_20251004_211313130.jpg)
 
 The contact map below shows I made plenty of connections.
 
-![alt text](Screenshot 2025-10-05 at 8.45.26 AM.png)
+![](Screenshot 2025-10-05 at 8.45.26 AM.png)
 
 For some reason, my KH1 couldn't tune this antenna for 20 meters. All my contacts were on 40 and 15 meters.
 
