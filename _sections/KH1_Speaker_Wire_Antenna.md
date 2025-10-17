@@ -2,7 +2,7 @@
 layout: default
 title: My KH1 and Some Speaker Wire
 image: /sections/KH1_Speaker_Wire_Antenna/PXL_20251004_204015434.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115289049826858502
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115391111365903069
 last_modified_date: October 17, 2025
 nav_order: 46
 ---
