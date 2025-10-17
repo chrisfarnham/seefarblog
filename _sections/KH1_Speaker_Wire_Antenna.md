@@ -21,7 +21,7 @@ The weather was perfect.
 
 ![](PXL_20251004_211313130.jpg)
 
-The contact map below shows I made plenty of connections.
+The map below shows I made plenty of contacts.
 
 ![](Screenshot 2025-10-05 at 8.45.26 AM.png)
 
