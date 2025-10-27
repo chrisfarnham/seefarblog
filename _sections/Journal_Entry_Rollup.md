@@ -92,6 +92,7 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 - [Peddocks Island]({% link _sections/Peddocks_Island.md %})
 - [Three Parks in Maine]({% link _sections/POTA_in_Maine.md %})
 - [Back to Peddocks Island]({% link _sections/Back_to_Peddocks_Island.md %})
+- [JOTA and Support Your Parks Weekend (2025)]({% link _sections/JOTA_and_Support_Your_Parks_2025.md %})
 
 ---
 
@@ -137,6 +138,8 @@ Stories and resources about introducing young people to amateur radio, including
 - [US Islands Awards Program recognizes Scouts from Troop 119 Lexington]({% link _sections/US_Islands_Awards_Program_FirstQ.md %})
 - [Scouting and POTA in the Boston Harbor]({% link _sections/POTA_Paddocks_Island.md %})
 - [Back to Peddocks Island]({% link _sections/Back_to_Peddocks_Island.md %})
+- [JOTA and Support Your Parks Weekend (2025)]({% link _sections/JOTA_and_Support_Your_Parks_2025.md %})
+
 
 ---
 

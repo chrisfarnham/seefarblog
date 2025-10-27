@@ -1,6 +1,6 @@
 ---
 layout: default
-title: JOTA and Support Your Parks Weekend
+title: JOTA and Support Your Parks Weekend (2025)
 image: /sections/JOTA_and_Support_Your_Parks_2025/PXL_20251018_135442032.jpg
 #toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115391111365903069
 last_modified_date: October 27, 2025
