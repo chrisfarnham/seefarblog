@@ -2,7 +2,7 @@
 layout: default
 title: Building the Cricket 40 CW QRP Transceiver
 image: /sections/Building_The_Cricket40/PXL_20251029_232012177.jpg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115446885240169454
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115460618224491413
 last_modified_date: October 29, 2025
 nav_order: 44
 ---
