@@ -2,12 +2,14 @@
 layout: default
 title: Kilo Award at Minute Man National Park
 image: /sections/Kilo_Award_MinuteMan/MinuteMan_preview.jpeg
-#toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115460618224491413
-last_modified_date: December 4, 2025
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115765922047546434
+last_modified_date: December 22, 2025
 nav_order: 43
 ---
 
 # POTA Kilo Award at Minute Man National Park
+
+![](photos/PXL_20250930_203241670.jpg)
 
 In late November, I earned my Kilo Award at
 [Minute Man National Park (US-0745)](https://pota.app/#/park/US-0745). To earn a POTA Kilo Award, an activator must make 1,000 or more contacts at a single POTA location.
