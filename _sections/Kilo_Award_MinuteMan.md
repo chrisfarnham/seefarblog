@@ -9,7 +9,9 @@ nav_order: 43
 
 # POTA Kilo Award at Minute Man National Park
 
-![](photos/PXL_20250930_203241670.jpg)
+![](W1YTQ_POTA_Kilo.png)
+
+![](photos/PXL_20251017_203131165.jpg){: .image-left width="400px" }
 
 In late November, I earned my Kilo Award at
 [Minute Man National Park (US-0745)](https://pota.app/#/park/US-0745). To earn a POTA Kilo Award, an activator must make 1,000 or more contacts at a single POTA location.
@@ -18,9 +20,6 @@ Minute Man Park is about a 15-minute drive from my home. It was the site of [my 
 POTA activation]({% link _sections/First_POTA_Activation.md %})
 my [first CW only POTA activation]({% link _sections/First_CW_Only_POTA_Activation.md %}) and
 [more]({% link _sections/QSL_Cards.md %}).
-
-
-![](W1YTQ_POTA_Kilo.png)
 
 ## Minute Man's Moods and Seasons
 
