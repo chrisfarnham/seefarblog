@@ -2,7 +2,9 @@
 layout: default
 title: Kilo Award at Minute Man National Park
 image: /sections/Kilo_Award_MinuteMan/MinuteMan_preview.jpeg
-toot_urls: https://mastodon.roundpond.net/@chrisfarnham/115765922047546434
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/115765922047546434
+    - https://mastodon.roundpond.net/@chrisfarnham/115634538209999624
 last_modified_date: December 22, 2025
 nav_order: 43
 ---
