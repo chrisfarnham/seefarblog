@@ -9,7 +9,7 @@ nav_order: 43
 
 # POTA Kilo Award at Minute Man National Park
 
-![](photos/PXL_20250930_203241670.jpg)
+![](photos/PXL_20251017_203131165.jpg)
 
 In late November, I earned my Kilo Award at
 [Minute Man National Park (US-0745)](https://pota.app/#/park/US-0745). To earn a POTA Kilo Award, an activator must make 1,000 or more contacts at a single POTA location.
