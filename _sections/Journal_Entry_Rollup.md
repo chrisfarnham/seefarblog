@@ -71,6 +71,7 @@ Experiences, tips, and stories about activating parks, portable operations, and 
 This category includes POTA, SOTA, and other outdoor radio activities.
 
 - [First POTA Activation]({% link _sections/First_POTA_Activation.md %})
+- [Kilo Award at Minute Man National Park]({% link _sections/Kilo_Award_MinuteMan.md %})
 - [POTA with Friends]({% link _sections/POTA_with_Friends.md %})
 - [POTA with Friends (2025)]({% link _sections/POTA_with_Friends_2025.md %})
 - [POTA Middlesex Fells State Reserve]({% link _sections/POTA_Middlesex_Fells.md %})
@@ -123,6 +124,7 @@ Resources and experiences for those interested in building radio kits and learni
 - [Antenna Repair and Kit Building]({% link _sections/Antenna_Repair_Kit_Building.md %})
 - [Building the QBV 40/20-10 Switched Portable Antenna]({% link _sections/QBV_Antenna_Kit.md %})
 - [Radio and Electronics Merit Badges]({% link _sections/RadioMeritBadge.md %})
+- [Building the Cricket 40 CW QRP Transceiver]({% link _sections/Building_The_Cricket40.md %})
 
 ---
 
