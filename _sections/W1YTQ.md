@@ -28,6 +28,10 @@ I was lucky enough to spend a lot of time with my grandfather at a young age and
 constant sound of radios and scanners in the background. Amateur radio was the social network before social networks. He was active in his local club and always had friends reaching out to him
 over the air.
 
+![Photo of us working on a radio together](chris_granpa_radio.png "Working on a radio together")
+
+A photo of us working on a radio together.
+
 ![](qsl_card.png)
 
 Fred was a man of many talents. He was a high school industrial arts teacher by profession. He printed his own QSL cards from an illustrated plate of his own design and manufacture. As you can see he was a fairly good artist. 
