@@ -20,7 +20,7 @@ and this time I brought along my new Yaesu FT-891 for one of its first outings.
 I set up my quarter-wave vertical and put the FT-891 on the air. It did great. I
 worked both SSB and CW on 20 meters all afternoon.
 
-![Chris Farnham (W1YTQ) logging a contact by hand next to the FT-891](FullSizeRender.png)
+![Chris Farnham (W1YTQ) logging a contact by hand next to the FT-891](FullSizeRender.jpg)
 
 > 10 meters was wide open. I worked two stations in Brazil, [PY2TN](https://www.qrz.com/db/PY2TN) in
 > Birigui and [PU1JSV](https://www.qrz.com/db/PU1JSV) in Rio de Janeiro, on SSB.
@@ -30,7 +30,7 @@ the two bands I also picked up Norway, Spain, France, Italy and Canada, all with
 same quarter-wave whip. Every single contact I made on our first day was with the Yaesu, 31 of them by the
 time the sun went down.
 
-![Chris Farnham (W1YTQ) operating the FT-891 on the green in front of the Peddocks Island chapel](FullSizeRender_2.png)
+![Chris Farnham (W1YTQ) operating the FT-891 on the green in front of the Peddocks Island chapel](FullSizeRender_2.jpg)
 
 ## A late night with my KH1
 
