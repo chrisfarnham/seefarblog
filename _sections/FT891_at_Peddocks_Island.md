@@ -3,7 +3,9 @@ layout: default
 title: A New Radio at Peddocks Island
 last_modified_date: September 22, 2026
 image: /sections/FT891_at_Peddocks_Island/PXL_20260919_175937642.jpg
-toot_urls: https://mastodon.roundpond.net/@chrisfarnham/117317661423612388
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/117317661423612388
+    - https://mastodon.roundpond.net/@chrisfarnham/117303883763228738
 nav_order: 42
 ---
 
