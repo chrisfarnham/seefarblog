@@ -35,7 +35,7 @@ time the sun went down.
 
 ## A late night with my KH1
 
-Once the Scouts had turned in, I walked down to the beach with my beloved KH1 and operated by
+Once the Scouts had turned in, I walked down to the beach with my beloved [KH1]({% link _sections/New_KH1_Elecraft_HF_Radio.md %}) and operated by
 lantern-light. I love this little radio.
 
 ![My KH1 and its whip antenna lit by lantern on a picnic table, with the Boston Harbor shoreline lights across the dark water](PXL_20260920_010346474.jpg)
@@ -65,7 +65,7 @@ radio in the books.
 
 ## Going forward
 
-I'm really happy with how the FT-891 has performed in these early outings. Unlike my KH1 and my Xiegu G90, it doesn't
+I'm really happy with how the FT-891 has performed in these early outings. Unlike my KH1 and my [Xiegu G90]({% link _sections/First_Contact.md %}), it doesn't
 have a built-in antenna matching unit, so my resonant quarter-wave whip is my best field antenna for it
 right now. If I want to pair it with my [Rybakov]({% link _sections/Rybakov_Antenna.md %}) or random
 wire antenna, my other go-to field antennas, I'll need to pick up an external tuner like an LDG Z-100.
