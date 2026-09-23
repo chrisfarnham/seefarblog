@@ -12,9 +12,9 @@ nav_order: 42
 # A New Radio at Peddocks Island
 
 This past weekend, September 19 and 20, 2026, I camped on Peddocks Island with my son's Scout troop,
-Troop 119, Lexington. This is our fourth year making the trip, though only my third time activating the
-park. Our first year, 2023, remnants of a hurricane were moving up the coast, so I left my HF gear home
-and played around with APRS instead
+Troop 119, Lexington. This is my fourth year making the trip with the troop, though only my third time
+activating the park. My first year, 2023, remnants of a hurricane were moving up the coast, so I left my
+HF gear home and played around with APRS instead
 ([Camping on Peddocks Island in Boston Harbor]({% link _sections/Peddocks_Island.md %})). Since then
 I've activated every year
 ([2025]({% link _sections/Back_to_Peddocks_Island.md %}), [2024]({% link _sections/POTA_Paddocks_Island.md %})),
