@@ -56,13 +56,13 @@
         // Your web app's Firebase configuration
         // For Firebase JS SDK v7.20.0 and later, measurementId is optional **/
         const firebaseConfig = {
-                apiKey: "AIzaSyBNNMxLALTeEyIZTUQP64CGWUibjwfYYYA",
-                authDomain: "seefar-blog.firebaseapp.com",
-                projectId: "seefar-blog",
-                storageBucket: "seefar-blog.firebasestorage.app",
-                messagingSenderId: "629202224859",
-                appId: "1:629202224859:web:24898ac99818b6aaf0eefe",
-                measurementId: "G-4VVNXS02FS"
+                apiKey: "{{ site.data.firebase_config.api_key }}",
+                authDomain: "{{ site.data.firebase_config.auth_domain }}",
+                projectId: "{{ site.data.firebase_config.project_id }}",
+                storageBucket: "{{ site.data.firebase_config.storage_bucket }}",
+                messagingSenderId: "{{ site.data.firebase_config.messaging_sender_id }}",
+                appId: "{{ site.data.firebase_config.app_id }}",
+                measurementId: "{{ site.data.firebase_config.measurement_id }}"
         };
 
         /** Initialize Firebase **/

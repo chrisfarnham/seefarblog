@@ -15,6 +15,11 @@ jobs:
         with:
           ruby-version: '3.2'
           bundler-cache: true
+      - name: Write Firebase web config
+        run: |
+          cat > _data/firebase_config.yml <<'EOF'
+          ${{ secrets.FIREBASE_WEB_CONFIG }}
+          EOF
       - run: bash build.sh
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:

@@ -1,0 +1,10 @@
+# Copy this file to _data/firebase_config.yml (gitignored) and fill in
+# your project's real values, from the Firebase console:
+# Project settings > General > Your apps > SDK setup and configuration > Config.
+api_key: "[apikey]"
+auth_domain: "seefar-blog.firebaseapp.com"
+project_id: "seefar-blog"
+storage_bucket: "seefar-blog.firebasestorage.app"
+messaging_sender_id: "[id]"
+app_id: "[id]"
+measurement_id: "[id]"
