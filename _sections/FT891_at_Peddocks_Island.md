@@ -39,6 +39,12 @@ time the sun went down.
 
 ![Chris Farnham (W1YTQ) operating the FT-891 on the green in front of the Peddocks Island chapel](FullSizeRender_2.jpg)
 
+> One of my favorite contacts that afternoon was with [W1KBN](https://nuwireless.org/), the amateur
+> radio club at Northeastern University. They had a field station set up in their quad on Huntington
+> Avenue as a campus recruiting event.
+
+![Chris Farnham (W1YTQ) operating the FT-891, mid-contact with W1KBN, Northeastern University's amateur radio club](IMG_7435.jpg)
+
 ## A late night with my KH1
 
 Once the Scouts had turned in, I walked down to the beach with my beloved [KH1]({% link _sections/New_KH1_Elecraft_HF_Radio.md %}) and operated by
@@ -64,10 +70,10 @@ days, on 10, 20 and 40 meters, and activated US-2421 with plenty to spare.
 
 ![Map of all the contacts made over the weekend, with lines reaching across the US and into Europe and South America](450c6afb-33e5-455c-9905-929ab866d937.png)
 
-We crossed back across Boston Harbor with the skyline behind us, another good weekend of camping and
+We crossed back across Boston Harbor with the skyline off our port side, another good weekend of camping and
 radio in the books.
 
-![View of the Boston skyline from the boat on the ride home](PXL_20260920_162540570.jpg)
+![View of the Boston skyline off the port side of the boat on the ride home](PXL_20260920_162540570.jpg)
 
 ## Going forward
 
