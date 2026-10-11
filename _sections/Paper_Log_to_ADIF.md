@@ -3,6 +3,7 @@ layout: default
 title: From a paper log to ADIF with Claude
 last_modified_date: October 10, 2026
 image: /sections/Paper_Log_to_ADIF/PXL_20261010_223259549.jpg
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/117419519712605692
 nav_order: 41
 ---
 
