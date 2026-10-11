@@ -3,7 +3,7 @@ layout: default
 title: Journal Entry Rollup
 image: /sections/Journal_Entry_Rollup/PXL_20241102_124656483.jpg
 toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114551420771158007
-last_modified_date: October 10, 2026
+last_modified_date: October 11, 2026
 nav_order: 52
 ---
 
@@ -97,6 +97,7 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 - [JOTA and Support Your Parks Weekend (2025)]({% link _sections/JOTA_and_Support_Your_Parks_2025.md %})
 - [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
 - [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
+- [A new tuner for my FT-891 and Rybakov]({% link _sections/LDG_Z100A_Tuner.md %})
 
 ---
 
@@ -115,6 +116,7 @@ Includes both homebrew and kit-based projects.
 - [POTA with the HF-008 Antenna]({% link _sections/New_Antenna_HF-008.md %})
 - [Radio Restored]({% link _sections/Radio_Restored.md %})
 - [Feedline Passthrough and Grounding]({% link _sections/Feedline_Passthrough.md %})
+- [A new tuner for my FT-891 and Rybakov]({% link _sections/LDG_Z100A_Tuner.md %})
 
 ---
 
@@ -204,6 +206,7 @@ I'm just sharing my personal impressions and  how I use different radios and equ
 - [Low Cost Vertical HF Antenna]({% link _sections/HomebrewQuarterWaveVertical.md %})
 - [POTA with the HF-008 Antenna]({% link _sections/New_Antenna_HF-008.md %})
 - [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
+- [A new tuner for my FT-891 and Rybakov]({% link _sections/LDG_Z100A_Tuner.md %})
 
 ---
 
