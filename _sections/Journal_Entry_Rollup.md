@@ -3,7 +3,7 @@ layout: default
 title: Journal Entry Rollup
 image: /sections/Journal_Entry_Rollup/PXL_20241102_124656483.jpg
 toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114551420771158007
-last_modified_date: May 22, 2025
+last_modified_date: October 10, 2026
 nav_order: 52
 ---
 
@@ -61,6 +61,7 @@ including activity guides, awards, and personal achievements in learning and usi
 - [First CW Only POTA Activation]({% link _sections/First_CW_Only_POTA_Activation.md %})
 - [Goals for 2025]({% link _sections/Radio_Goals_2025.md %})
 - [POTA with Friends]({% link _sections/POTA_with_Friends.md %})
+- [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
 
 ---
 
@@ -94,6 +95,8 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 - [Three Parks in Maine]({% link _sections/POTA_in_Maine.md %})
 - [Back to Peddocks Island]({% link _sections/Back_to_Peddocks_Island.md %})
 - [JOTA and Support Your Parks Weekend (2025)]({% link _sections/JOTA_and_Support_Your_Parks_2025.md %})
+- [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
+- [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
 
 ---
 
@@ -141,6 +144,7 @@ Stories and resources about introducing young people to amateur radio, including
 - [Scouting and POTA in the Boston Harbor]({% link _sections/POTA_Paddocks_Island.md %})
 - [Back to Peddocks Island]({% link _sections/Back_to_Peddocks_Island.md %})
 - [JOTA and Support Your Parks Weekend (2025)]({% link _sections/JOTA_and_Support_Your_Parks_2025.md %})
+- [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
 
 
 ---
@@ -153,6 +157,7 @@ Tips and tutorials for logging contacts, mapping operations, and using software 
 - [Radio Logging and Mapping Tools]({% link _sections/Logging_Practices.md %})
 - [Radio logs with Wavelog and Podman Compose]({% link _sections/WaveLogLogging.md %})
 - [Streamlined radio log processing with Python]({% link _sections/Adif_Python_Analysis.md %})
+- [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
 
 ---
 
@@ -182,6 +187,7 @@ From first contacts to awards, and recognitions earned through amateur radio act
 - [First Morse Code Contact]({% link _sections/First_Morse_Code_Contact.md %})
 - [Earning my SKCC Centurion Award]({% link _sections/SKCC_Centurion_Award.md %})
 - [US Islands Awards Program recognizes Scouts from Troop 119 Lexington]({% link _sections/US_Islands_Awards_Program_FirstQ.md %})
+- [Kilo Award at Minute Man National Park]({% link _sections/Kilo_Award_MinuteMan.md %})
 
 ### Radio equipment & impressions
 
@@ -197,6 +203,7 @@ I'm just sharing my personal impressions and  how I use different radios and equ
 - [Rybakov Antenna]({% link _sections/Rybakov_Antenna.md %})
 - [Low Cost Vertical HF Antenna]({% link _sections/HomebrewQuarterWaveVertical.md %})
 - [POTA with the HF-008 Antenna]({% link _sections/New_Antenna_HF-008.md %})
+- [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
 
 ---
 
