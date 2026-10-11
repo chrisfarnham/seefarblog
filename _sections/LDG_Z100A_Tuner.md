@@ -3,6 +3,7 @@ layout: default
 title: A new tuner for my FT-891 and Rybakov
 last_modified_date: October 11, 2026
 image: /sections/LDG_Z100A_Tuner/PXL_20261011_160217767.jpg
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/117424010600135219
 nav_order: 40
 ---
 
