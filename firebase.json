@@ -3,10 +3,26 @@
     "public": "_site",
     "ignore": [
       "firebase.json",
-      "**/.*",
       "**/node_modules/**",
       "Gemfile", 
-      "Gemfile.lock", "Makefile", "build.sh", "README.md"
+      "Gemfile.lock", "Makefile", "build.sh", "README.md",
+      "**/.DS_Store"
+    ],
+    "headers": [
+      {
+        "source": "/.well-known/about.md",
+        "headers": [
+          { "key": "Content-Type", "value": "text/markdown; charset=utf-8" },
+          { "key": "Access-Control-Allow-Origin", "value": "*" }
+        ]
+      },
+      {
+        "source": "/.well-known/contact.vcf",
+        "headers": [
+          { "key": "Content-Type", "value": "text/vcard; charset=utf-8" },
+          { "key": "Access-Control-Allow-Origin", "value": "*" }
+        ]
+      }
     ]
   }
 }
