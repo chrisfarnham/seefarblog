@@ -147,6 +147,7 @@ Stories and resources about introducing young people to amateur radio, including
 - [Back to Peddocks Island]({% link _sections/Back_to_Peddocks_Island.md %})
 - [JOTA and Support Your Parks Weekend (2025)]({% link _sections/JOTA_and_Support_Your_Parks_2025.md %})
 - [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
+- [Jamboree on the Air 2026]({% link _sections/JOTA_2026.md %})
 
 
 ---
