@@ -98,6 +98,7 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 - [A New Radio at Peddocks Island]({% link _sections/FT891_at_Peddocks_Island.md %})
 - [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
 - [A new tuner for my FT-891 and Rybakov]({% link _sections/LDG_Z100A_Tuner.md %})
+- [Island Operations talk at PART]({% link _sections/PART_Island_Talk.md %})
 
 ---
 
