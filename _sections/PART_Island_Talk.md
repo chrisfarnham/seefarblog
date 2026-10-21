@@ -3,6 +3,7 @@ layout: default
 title: Island Operations talk at PART
 last_modified_date: October 21, 2026
 image: /sections/PART_Island_Talk/PART_talk_Adam_photo.jpg
+toot_urls: https://mastodon.roundpond.net/@chrisfarnham/117480190491870330
 nav_order: 38
 ---
 
