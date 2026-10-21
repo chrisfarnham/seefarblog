@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: /sections/QSL_Cards/original_photo.jpg
+image: /sections/POTA_Paddocks_Island/homepage_card_kh1.jpg
 ---
 
 
