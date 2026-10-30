@@ -174,6 +174,7 @@ Information and experiences with digital modes and VHF/UHF radio, including APRS
 - [Learning APRS]({% link _sections/Learning_APRS.md %})
 - [New Radio - an Icom IC-7300]({% link _sections/New_Radio_IC7300.md %})
 - [CW Frequency Guide]({% link _sections/CW_Frequency_Guide.md %})
+- [Remote FT8 from the couch with POTACAT and ECHOCAT]({% link _sections/POTACAT_ECHOCAT.md %})
 
 ---
 
