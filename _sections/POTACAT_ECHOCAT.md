@@ -11,10 +11,12 @@ nav_order: 37
 On Wednesday evening, October 28, 2026, I logged a two-way FT8 contact with Bulgaria while watching the World Series
 upstairs with my wife. My radio was in the basement the whole time.
 
+![A TV showing the World Series, Milwaukee leading Tampa Bay 2 to 0 in the 6th inning](PXL_20261029_014709021.jpg){: width="500px"}
+
 The station was [LZ2XA](https://www.qrz.com/db/LZ2XA), Val, in grid KN33, about 7,400 kilometers (4,600 miles) away on 40 meters.
 I made the contact from my phone.
 
-![A TV showing the World Series, Milwaukee leading Tampa Bay 2 to 0 in the 6th inning](PXL_20261029_014709021.jpg){: width="500px"}
+![A map showing the signal path from Lexington, Massachusetts across the Atlantic and Europe to LZ2XA in Bulgaria](lz2xa_path.png)
 
 ## Why remote?
 
