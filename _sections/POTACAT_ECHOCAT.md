@@ -3,6 +3,9 @@ layout: default
 title: Remote FT8 from the couch with POTACAT and ECHOCAT
 last_modified_date: October 30, 2026
 image: /sections/POTACAT_ECHOCAT/card.jpg
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/117530685854377760
+    - https://mastodon.roundpond.net/@chrisfarnham/117516256212403154
 nav_order: 37
 ---
 
