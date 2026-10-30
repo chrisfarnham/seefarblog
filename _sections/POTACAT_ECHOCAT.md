@@ -35,6 +35,18 @@ When my wife saw me making radio contacts through my phone, she rolled her eyes 
 
 The whole setup took me about an hour. I only use it for digital modes so far.
 
+## How it all connects
+
+Here's how the pieces fit together. The radio and antenna are cabled to the laptop, everything that logs runs on the laptop,
+and the phone reaches POTACAT over Tailscale.
+
+![Diagram: a 40 meter EFHW antenna connects by coax to the IC-7300, which connects by USB through ferrites to POTACAT on an Acer laptop. A phone running ECHOCAT controls POTACAT over Tailscale. POTACAT sends each QSO to WaveLogGate, which posts it over HTTPS to Wavelog, which uploads to QRZ and LoTW.](connections.png)
+
+WaveLogGate is what gets each contact into Wavelog. It posts the QSO to Wavelog's API over HTTPS, using the Wavelog URL, an API key and a station profile.
+Wavelog needs a secure connection for that, which is why I run Caddy in front of it. I wrote up that part of the setup in
+[Radio logs with Wavelog and Podman Compose]({% link _sections/WaveLogLogging.md %}). Wavelog then uploads each contact to QRZ and LoTW automatically.
+The radio and antenna are the same [IC-7300]({% link _sections/New_Radio_IC7300.md %}) and [end-fed half-wave]({% link _sections/EFHW_Antenna.md %}) I use for everything else at home.
+
 ## What are POTACAT and ECHOCAT?
 
 I found POTACAT in a YouTube video, [The Free App Remote Hams Are Switching To - POTACAT](https://youtu.be/QyjFec5rQF0) by KM4ACK.
