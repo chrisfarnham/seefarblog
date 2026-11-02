@@ -3,7 +3,7 @@ layout: default
 title: Journal Entry Rollup
 image: /sections/Journal_Entry_Rollup/PXL_20241102_124656483.jpg
 toot_urls: https://mastodon.roundpond.net/@chrisfarnham/114551420771158007
-last_modified_date: October 11, 2026
+last_modified_date: November 2, 2026
 nav_order: 52
 ---
 
@@ -62,6 +62,7 @@ including activity guides, awards, and personal achievements in learning and usi
 - [Goals for 2025]({% link _sections/Radio_Goals_2025.md %})
 - [POTA with Friends]({% link _sections/POTA_with_Friends.md %})
 - [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
+- [Three parks, one KH1, and a friend at Great Brook Farm]({% link _sections/Three_Parks_Eastern_MA.md %})
 
 ---
 
@@ -99,6 +100,7 @@ This category includes POTA, SOTA, and other outdoor radio activities.
 - [From a paper log to ADIF with Claude]({% link _sections/Paper_Log_to_ADIF.md %})
 - [A new tuner for my FT-891 and Rybakov]({% link _sections/LDG_Z100A_Tuner.md %})
 - [Island Operations talk at PART]({% link _sections/PART_Island_Talk.md %})
+- [Three parks, one KH1, and a friend at Great Brook Farm]({% link _sections/Three_Parks_Eastern_MA.md %})
 
 ---
 
@@ -204,6 +206,7 @@ I'm just sharing my personal impressions and  how I use different radios and equ
 
 - [New Radio - an Icom IC-7300]({% link _sections/New_Radio_IC7300.md %})
 - [New Radio - an Elecraft KH1]({% link _sections/New_KH1_Elecraft_HF_Radio.md %})
+- [Three parks, one KH1, and a friend at Great Brook Farm]({% link _sections/Three_Parks_Eastern_MA.md %})
 - [First amateur radio rig]({% link _sections/Starting_Setup.md %})
 - [Rybakov Antenna]({% link _sections/Rybakov_Antenna.md %})
 - [Low Cost Vertical HF Antenna]({% link _sections/HomebrewQuarterWaveVertical.md %})
