@@ -3,6 +3,10 @@ layout: default
 title: Three parks, one KH1, and a friend at Great Brook Farm
 last_modified_date: November 2, 2026
 image: /sections/Three_Parks_Eastern_MA/card.jpg
+toot_urls:
+    - https://mastodon.roundpond.net/@chrisfarnham/117547332312380187
+    - https://mastodon.roundpond.net/@chrisfarnham/117543194674043611
+    - https://mastodon.roundpond.net/@chrisfarnham/117537124335545347
 nav_order: 36
 ---
 
