@@ -17,6 +17,18 @@
         ]
       },
       {
+        "source": "/feed.xml",
+        "headers": [
+          { "key": "Access-Control-Allow-Origin", "value": "*" }
+        ]
+      },
+      {
+        "source": "/sections.xml",
+        "headers": [
+          { "key": "Access-Control-Allow-Origin", "value": "*" }
+        ]
+      },
+      {
         "source": "/.well-known/following.opml",
         "headers": [
           { "key": "Content-Type", "value": "text/x-opml; charset=utf-8" },
