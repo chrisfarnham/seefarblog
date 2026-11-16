@@ -1,0 +1,7 @@
+---
+# Posts feed for readers that probe /feed.xml (SocialSpec Social Browser).
+# Same content as /sections.xml. jekyll-feed would otherwise generate an empty
+# Atom feed here, because this site has no _posts.
+layout: 
+---
+{% include sections-rss.xml %}
