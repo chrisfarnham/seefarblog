@@ -1,0 +1,60 @@
+---
+# FollowSpec (https://followspec.org) feed list, published at /.well-known/following.opml
+#
+# HOW TO USE: edit the `following` list below. Nothing else needs to change.
+#
+#   following:
+#     - name: "Example Person"                 # display name (required)
+#       site: "https://example.com"            # human-facing home page (optional)
+#       feed: "https://example.com/feed.xml"   # RSS or Atom feed URL (required)
+#
+# ALWAYS wrap every value in double quotes. Unquoted YAML breaks on names like
+# Smith: Radio or @someone, and the build fails with "Invalid YAML front
+# matter". If a value contains a double quote, escape it as \" or switch that
+# value to single quotes.
+#
+# An entry with no `feed` is skipped. Values are XML-escaped for you, so
+# a literal & in a URL is fine. An empty list (`following: []`) publishes a
+# valid OPML file with no outlines.
+#
+# Set `modified` to the date of your last change. It becomes <dateModified>.
+# It is manual on purpose: using the build time would change the file, and its
+# ETag, on every deploy.
+#
+# Find a feed URL with: curl -s <site> | grep -i 'rel="alternate"'
+layout: null
+sitemap: false
+search_exclude: true
+created: 2026-11-16
+modified: 2026-11-16
+following:
+  - name: "Labnotes (by Assaf Arkin)"
+    site: "https://labnotes.org"
+    feed: "https://labnotes.org/rss/"
+  - name: "Amateur Radio News and Notes"
+    site: "https://mvarc.substack.com"
+    feed: "https://mvarc.substack.com/feed"
+---
+{%- comment -%}
+Everything below the front matter is the template. It renders one <outline>
+per entry in `page.following`. Liquid comments like this one are not published.
+The first line of output must stay the XML declaration, so do not add a blank
+line or other text above it.
+{%- endcomment -%}
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Chris Farnham (W1YTQ) Follows</title>
+        <ownerName>Chris Farnham</ownerName>
+        <dateCreated>{{ page.created | date_to_rfc822 }}</dateCreated>
+        <dateModified>{{ page.modified | date_to_rfc822 }}</dateModified>
+        <docs>http://www.opml.org/spec2</docs>
+    </head>
+    <body>
+{%- for person in page.following %}
+{%- if person.feed %}
+        <outline type="rss" text="{{ person.name | xml_escape }}"{% if person.site %} htmlUrl="{{ person.site | xml_escape }}"{% endif %} xmlUrl="{{ person.feed | xml_escape }}"/>
+{%- endif %}
+{%- endfor %}
+    </body>
+</opml>
