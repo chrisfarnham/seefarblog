@@ -17,6 +17,13 @@
         ]
       },
       {
+        "source": "/.well-known/following.opml",
+        "headers": [
+          { "key": "Content-Type", "value": "text/x-opml; charset=utf-8" },
+          { "key": "Access-Control-Allow-Origin", "value": "*" }
+        ]
+      },
+      {
         "source": "/.well-known/contact.vcf",
         "headers": [
           { "key": "Content-Type", "value": "text/vcard; charset=utf-8" },

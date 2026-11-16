@@ -94,7 +94,7 @@ just_the_docs:
 # External navigation links moved to index page
 nav_external_links: []
 
-# Jekyll skips dot-directories by default. SocialSpec files (about.md, contact.vcf) live in .well-known.
+# Jekyll skips dot-directories by default. SocialSpec files (about.md, contact.vcf, following.opml) live in .well-known.
 include:
   - .well-known
 
